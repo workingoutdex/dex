@@ -1,0 +1,5478 @@
+{
+  "pokemon": [{
+    "id": 1,
+    "num": "001",
+    "name": "Bulbasaur",
+    "descriptiones": "A Bulbasaur es fácil verle echándose una siesta al sol. La semilla que tiene en el lomo va creciendo cada vez más a medida que absorbe los rayos del sol",
+    "descriptionus": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
+     "HP": 45,
+      "Attack": 49,
+      "Defense": 49,
+      "Sp. Attack": 65,
+      "Sp. Defense": 65,
+      "Speed": 45,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/001.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/001.gif",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "height": "0.71 m",
+    "weight": "6.9 kg",
+    "candy": "Bulbasaur Candy",
+    "candy_count": 25,
+    "egg": "2 km",
+    "spawn_chance": 0.69,
+    "avg_spawns": 69,
+    "spawn_time": "20:00",
+    "multipliers": [1.58],
+    "weaknesses": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ],
+    "next_evolution": [{
+      "num": "002",
+      "name": "https://pokemon-trainer.com/images/sprite/xyorasani/002.gif"
+    }, {
+      "num": "003",
+      "name": "https://pokemon-trainer.com/images/sprite/xyorasani/003.gif"
+    }]
+  }, {
+    "id": 2,
+    "num": "002",
+    "name": "Ivysaur",
+    "descriptiones": "Este Pokémon lleva un bulbo en el lomo y, para poder con su peso, tiene unas patas y un tronco gruesos y fuertes. Si empieza a pasar más tiempo al sol, será porque el bulbo está a punto de hacerse una flor grande.",
+    "descriptionus": "There is a bud on this Pokémon's back. To support its weight, Ivysaur's legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it's a sign that the bud will bloom into a large flower soon.",
+      "HP": 60,
+      "Attack": 62,
+      "Defense": 63,
+      "Sp. Attack": 80,
+      "Sp. Defense": 80,
+      "Speed": 60,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/002.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/002.gif",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "height": "0.99 m",
+    "weight": "13.0 kg",
+    "candy": "Bulbasaur Candy",
+    "candy_count": 100,
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.042,
+    "avg_spawns": 4.2,
+    "spawn_time": "07:00",
+    "multipliers": [
+      1.2,
+      1.6
+    ],
+    "weaknesses": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ],
+    "prev_evolution": [{
+      "num": "001",
+      "name": "Bulbasaur"
+    }],
+    "next_evolution": [{
+      "num": "003",
+      "name": "Venusaur"
+    }]
+  }, {
+    "id": 3,
+    "num": "003",
+    "name": "Venusaur",
+    "descriptiones": "Venusaur tiene una flor enorme en el lomo que, según parece, adquiere unos colores muy vivos si está bien nutrido y le da mucho el sol. El aroma delicado de la flor tiene un efecto relajante en el ánimo de las personas.",
+    "descriptionus": "There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.",
+    "HP": 80,
+      "Attack": 82,
+      "Defense": 83,
+      "Sp. Attack": 100,
+      "Sp. Defense": 100,
+      "Speed": 80,
+     "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/003.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/003.gif",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "height": "2.01 m",
+    "weight": "100.0 kg",
+    "candy": "Bulbasaur Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.017,
+    "avg_spawns": 1.7,
+    "spawn_time": "11:30",
+    "multipliers": null,
+    "weaknesses": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ],
+    "prev_evolution": [{
+      "num": "001",
+      "name": "Bulbasaur"
+    }, {
+      "num": "002",
+      "name": "Ivysaur"
+    }]
+  }, {
+    "id": 4,
+    "num": "004",
+    "name": "Charmander",
+    "descriptiones": "La llama que tiene en la punta de la cola arde según sus sentimientos. Llamea levemente cuando está alegre y arde vigorosamente cuando está enfadado.",
+    "descriptionus": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely.",
+    "HP": 39,
+      "Attack": 52,
+      "Defense": 43,
+      "Sp. Attack": 60,
+      "Sp. Defense": 50,
+      "Speed": 65,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/004.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/004.gif",
+    "type": [
+      "Fire"
+    ],
+    "height": "0.61 m",
+    "weight": "8.5 kg",
+    "candy": "Charmander Candy",
+    "candy_count": 25,
+    "egg": "2 km",
+    "spawn_chance": 0.253,
+    "avg_spawns": 25.3,
+    "spawn_time": "08:45",
+    "multipliers": [1.65],
+    "weaknesses": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "next_evolution": [{
+      "num": "005",
+      "name": "Charmeleon"
+    }, {
+      "num": "006",
+      "name": "Charizard"
+    }]
+  }, {
+    "id": 5,
+    "num": "005",
+    "name": "Charmeleon",
+     "descriptiones": "Charmeleon no tiene reparo en acabar con su rival usando las afiladas garras que tiene. Si su enemigo es fuerte, se vuelve agresivo, y la llama que tiene en el extremo de la cola empieza a arder con mayor intensidad tornándose azulada.",
+    "descriptionus": "Charmeleon mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color.",
+    "HP": 58,
+      "Attack": 64,
+      "Defense": 58,
+      "Sp. Attack": 80,
+      "Sp. Defense": 65,
+      "Speed": 80,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/005.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/005.gif",
+    "type": [
+      "Fire"
+    ],
+    "height": "1.09 m",
+    "weight": "19.0 kg",
+    "candy": "Charmander Candy",
+    "candy_count": 100,
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.012,
+    "avg_spawns": 1.2,
+    "spawn_time": "19:00",
+    "multipliers": [1.79],
+    "weaknesses": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "prev_evolution": [{
+      "num": "004",
+      "name": "Charmander"
+    }],
+    "next_evolution": [{
+      "num": "006",
+      "name": "Charizard"
+    }]
+  }, {
+    "id": 6,
+    "num": "006",
+    "name": "Charizard",
+    "descriptiones": "Charizard se dedica a volar por los cielos en busca de oponentes fuertes. Echa fuego por la boca y es capaz de derretir cualquier cosa. No obstante, si su rival es más débil que él, no usará este ataque.",
+    "descriptionus": "Charizard flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.",
+    "HP": 78,
+      "Attack": 84,
+      "Defense": 78,
+      "Sp. Attack": 109,
+      "Sp. Defense": 85,
+      "Speed": 100,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/006.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/006.gif",
+    "type": [
+      "Fire",
+      "Flying"
+    ],
+    "height": "1.70 m",
+    "weight": "90.5 kg",
+    "candy": "Charmander Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.0031,
+    "avg_spawns": 0.31,
+    "spawn_time": "13:34",
+    "multipliers": null,
+    "weaknesses": [
+      "Water",
+      "Electric",
+      "Rock"
+    ],
+    "prev_evolution": [{
+      "num": "004",
+      "name": "Charmander"
+    }, {
+      "num": "005",
+      "name": "Charmeleon"
+    }]
+  }, {
+    "id": 7,
+    "num": "007",
+    "name": "Squirtle",
+     "descriptiones": "El caparazón de Squirtle no le sirve de protección únicamente. Su forma redondeada y las hendiduras que tiene le ayudan a deslizarse en el agua y le permiten nadar a gran velocidad.",
+    "descriptionus": "Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds.",
+    "HP": 44,
+      "Attack": 48,
+      "Defense": 65,
+      "Sp. Attack": 50,
+      "Sp. Defense": 64,
+      "Speed": 43,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/007.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/007.gif",
+    "type": [
+      "Water"
+    ],
+    "height": "0.51 m",
+    "weight": "9.0 kg",
+    "candy": "Squirtle Candy",
+    "candy_count": 25,
+    "egg": "2 km",
+    "spawn_chance": 0.58,
+    "avg_spawns": 58,
+    "spawn_time": "04:25",
+    "multipliers": [2.1],
+    "weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "next_evolution": [{
+      "num": "008",
+      "name": "Wartortle"
+    }, {
+      "num": "009",
+      "name": "Blastoise"
+    }]
+  }, {
+    "id": 8,
+    "num": "008",
+    "name": "Wartortle",
+    "descriptiones": "Tiene una cola larga y cubierta de un pelo abundante y grueso que se torna más oscuro a medida que crece. Los arañazos que tiene en el caparazón dan fe de lo buen guerrero que es.",
+    "descriptionus": "Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as Wartortle ages. The scratches on its shell are evidence of this Pokémon's toughness as a battler.",
+     "HP": 59,
+      "Attack": 63,
+      "Defense": 80,
+      "Sp. Attack": 65,
+      "Sp. Defense": 80,
+      "Speed": 58,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/008.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/008.gif",
+    "type": [
+      "Water"
+    ],
+    "height": "0.99 m",
+    "weight": "22.5 kg",
+    "candy": "Squirtle Candy",
+    "candy_count": 100,
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.034,
+    "avg_spawns": 3.4,
+    "spawn_time": "07:02",
+    "multipliers": [1.4],
+    "weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "prev_evolution": [{
+      "num": "007",
+      "name": "Squirtle"
+    }],
+    "next_evolution": [{
+      "num": "009",
+      "name": "Blastoise"
+    }]
+  }, {
+    "id": 9,
+    "num": "009",
+    "name": "Blastoise",
+    "descriptiones": "Blastoise lanza chorros de agua con gran precisión por los tubos que le salen del caparazón que tiene en la espalda. Puede disparar chorros de agua con tanta puntería que no fallaría al tirar contra una lata pequeña a 50 m.",
+    "descriptionus": "Blastoise has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet.",
+     "HP": 79,
+      "Attack": 83,
+      "Defense": 100,
+      "Sp. Attack": 85,
+      "Sp. Defense": 105,
+      "Speed": 78,
+     "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/009.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/009.gif",
+    "type": [
+      "Water"
+    ],
+    "height": "1.60 m",
+    "weight": "85.5 kg",
+    "candy": "Squirtle Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.0067,
+    "avg_spawns": 0.67,
+    "spawn_time": "00:06",
+    "multipliers": null,
+    "weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "prev_evolution": [{
+      "num": "007",
+      "name": "Squirtle"
+    }, {
+      "num": "008",
+      "name": "Wartortle"
+    }]
+  }, {
+    "id": 10,
+    "num": "010",
+    "name": "Caterpie",
+     "descriptiones": "Caterpie tiene un apetito voraz. Es capaz de devorar hojas que superen su tamaño en un abrir y cerrar de ojos. Atención a la antena que tiene: libera un hedor realmente fuerte.",
+    "descriptionus": "Caterpie has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this Pokémon releases a terrifically strong odor.",
+    "HP": 45,
+      "Attack": 30,
+      "Defense": 35,
+      "Sp. Attack": 20,
+      "Sp. Defense": 20,
+      "Speed": 45,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/010.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/010.gif",
+    "type": [
+      "Bug"
+    ],
+    "height": "0.30 m",
+    "weight": "2.9 kg",
+    "candy": "Caterpie Candy",
+    "candy_count": 12,
+    "egg": "2 km",
+    "spawn_chance": 3.032,
+    "avg_spawns": 303.2,
+    "spawn_time": "16:35",
+    "multipliers": [1.05],
+    "weaknesses": [
+      "Fire",
+      "Flying",
+      "Rock"
+    ],
+    "next_evolution": [{
+      "num": "011",
+      "name": "Metapod"
+    }, {
+      "num": "012",
+      "name": "Butterfree"
+    }]
+  }, {
+    "id": 11,
+    "num": "011",
+    "name": "Metapod",
+    "descriptiones": "La capa que recubre el cuerpo de este Pokémon es tan dura como una plancha de hierro. Metapod apenas se mueve. Permanece inmóvil para que las vísceras evolucionen dentro de la coraza que le rodea.",
+    "descriptionus": "The shell covering this Pokémon's body is as hard as an iron slab. Metapod does not move very much. It stays still because it is preparing its soft innards for evolution inside the hard shell.",
+    "HP": 50,
+      "Attack": 20,
+      "Defense": 55,
+      "Sp. Attack": 25,
+      "Sp. Defense": 25,
+      "Speed": 30,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/011.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/011.gif",
+    "type": [
+      "Bug"
+    ],
+    "height": "0.71 m",
+    "weight": "9.9 kg",
+    "candy": "Caterpie Candy",
+    "candy_count": 50,
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.187,
+    "avg_spawns": 18.7,
+    "spawn_time": "02:11",
+    "multipliers": [
+      3.55,
+      3.79
+    ],
+    "weaknesses": [
+      "Fire",
+      "Flying",
+      "Rock"
+    ],
+    "prev_evolution": [{
+      "num": "010",
+      "name": "Caterpie"
+    }],
+    "next_evolution": [{
+      "num": "012",
+      "name": "Butterfree"
+    }]
+  }, {
+    "id": 12,
+    "num": "012",
+    "name": "Butterfree",
+    "descriptiones": "Butterfree tiene una habilidad especial para encontrar delicioso polen en las flores. Puede localizar, extraer y transportar polen de flores que estén floreciendo a 10 km de distancia de su nido.",
+    "descriptionus": "Butterfree has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.",
+    "HP": 60,
+      "Attack": 45,
+      "Defense": 50,
+      "Sp. Attack": 90,
+      "Sp. Defense": 80,
+      "Speed": 70,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/012.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/012.gif",
+    "type": [
+      "Bug",
+      "Flying"
+    ],
+    "height": "1.09 m",
+    "weight": "32.0 kg",
+    "candy": "Caterpie Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.022,
+    "avg_spawns": 2.2,
+    "spawn_time": "05:23",
+    "multipliers": null,
+    "weaknesses": [
+      "Fire",
+      "Electric",
+      "Ice",
+      "Flying",
+      "Rock"
+    ],
+    "prev_evolution": [{
+      "num": "010",
+      "name": "Caterpie"
+    }, {
+      "num": "011",
+      "name": "Metapod"
+    }]
+  }, {
+    "id": 13,
+    "num": "013",
+    "name": "Weedle",
+    "descriptiones": "Weedle tiene un finísimo sentido del olfato. Es capaz de distinguir las hojas que le gustan de las que no le gustan olisqueando un poco con la gran nariz que tiene.",
+    "descriptionus": "Weedle has an extremely acute sense of smell. It is capable of distinguishing its favorite kinds of leaves from those it dislikes just by sniffing with its big red proboscis (nose).",
+    "HP": 40,
+      "Attack": 35,
+      "Defense": 30,
+      "Sp. Attack": 20,
+      "Sp. Defense": 20,
+      "Speed": 50,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/013.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/013.gif",
+    "type": [
+      "Bug",
+      "Poison"
+    ],
+    "height": "0.30 m",
+    "weight": "3.2 kg",
+    "candy": "Weedle Candy",
+    "candy_count": 12,
+    "egg": "2 km",
+    "spawn_chance": 7.12,
+    "avg_spawns": 712,
+    "spawn_time": "02:21",
+    "multipliers": [
+      1.01,
+      1.09
+    ],
+    "weaknesses": [
+      "Fire",
+      "Flying",
+      "Psychic",
+      "Rock"
+    ],
+    "next_evolution": [{
+      "num": "014",
+      "name": "Kakuna"
+    }, {
+      "num": "015",
+      "name": "Beedrill"
+    }]
+  }, {
+    "id": 14,
+    "num": "014",
+    "name": "Kakuna",
+    "descriptiones": "Kakuna permanece prácticamente inmóvil al encaramarse a los árboles, aunque la actividad interna de su organismo tiene un ritmo frenético, pues se prepara para su evolución. Prueba de esto es la alta temperatura de su caparazón.",
+    "descriptionus": "Kakuna remains virtually immobile as it clings to a tree. However, on the inside, it is extremely busy as it prepares for its coming evolution. This is evident from how hot the shell becomes to the touch.",
+    "HP": 45,
+      "Attack": 25,
+      "Defense": 50,
+      "Sp. Attack": 25,
+      "Sp. Defense": 25,
+      "Speed": 35,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/014.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/014.gif",
+    "type": [
+      "Bug",
+      "Poison"
+    ],
+    "height": "0.61 m",
+    "weight": "10.0 kg",
+    "candy": "Weedle Candy",
+    "candy_count": 50,
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.44,
+    "avg_spawns": 44,
+    "spawn_time": "02:30",
+    "multipliers": [
+      3.01,
+      3.41
+    ],
+    "weaknesses": [
+      "Fire",
+      "Flying",
+      "Psychic",
+      "Rock"
+    ],
+    "prev_evolution": [{
+      "num": "013",
+      "name": "Weedle"
+    }],
+    "next_evolution": [{
+      "num": "015",
+      "name": "Beedrill"
+    }]
+  }, {
+    "id": 15,
+    "num": "015",
+    "name": "Beedrill",
+     "descriptiones": "Los Beedrill defienden su territorio a toda costa. No es conveniente acercarse a su colmena, por seguridad. Si se les molesta, todo un enjambre atacará ferozmente.",
+    "descriptionus": "Beedrill is extremely territorial. No one should ever approach its nest—this is for their own safety. If angered, they will attack in a furious swarm.",
+     "HP": 65,
+      "Attack": 90,
+      "Defense": 40,
+      "Sp. Attack": 45,
+      "Sp. Defense": 80,
+      "Speed": 75,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/015.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/015.gif",
+    "type": [
+      "Bug",
+      "Poison"
+    ],
+    "height": "0.99 m",
+    "weight": "29.5 kg",
+    "candy": "Weedle Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.051,
+    "avg_spawns": 5.1,
+    "spawn_time": "04:50",
+    "multipliers": null,
+    "weaknesses": [
+      "Fire",
+      "Flying",
+      "Psychic",
+      "Rock"
+    ],
+    "prev_evolution": [{
+      "num": "013",
+      "name": "Weedle"
+    }, {
+      "num": "014",
+      "name": "Kakuna"
+    }]
+  }, {
+    "id": 16,
+    "num": "016",
+    "name": "Pidgey",
+    "descriptiones": "Pidgey tiene un sentido de la orientación muy desarrollado. Es capaz de regresar a su nido, por lejos que se encuentre de las zonas que le resultan familiares.",
+    "descriptionus": "Pidgey has an extremely sharp sense of direction. It is capable of unerringly returning home to its nest, however far it may be removed from its familiar surroundings.",
+     "HP": 40,
+      "Attack": 45,
+      "Defense": 40,
+      "Sp. Attack": 35,
+      "Sp. Defense": 35,
+      "Speed": 56,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/016.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/016.gif",
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "height": "0.30 m",
+    "weight": "1.8 kg",
+    "candy": "Pidgey Candy",
+    "candy_count": 12,
+    "egg": "2 km",
+    "spawn_chance": 15.98,
+    "avg_spawns": 1.598,
+    "spawn_time": "01:34",
+    "multipliers": [
+      1.71,
+      1.92
+    ],
+    "weaknesses": [
+      "Electric",
+      "Rock"
+    ],
+    "next_evolution": [{
+      "num": "017",
+      "name": "Pidgeotto"
+    }, {
+      "num": "018",
+      "name": "Pidgeot"
+    }]
+  }, {
+    "id": 17,
+    "num": "017",
+    "name": "Pidgeotto",
+    "descriptiones": "Pidgeotto se apodera de una zona muy vasta como su territorio y la sobrevuela para controlarla. Si alguien invade su espacio vital, no tendrá ningún reparo en castigarlo con sus afiladas garras.",
+    "descriptionus": "Pidgeotto claims a large area as its own territory. This Pokémon flies around, patrolling its living space. If its territory is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws.",
+     "HP": 63,
+      "Attack": 60,
+      "Defense": 55,
+      "Sp. Attack": 50,
+      "Sp. Defense": 50,
+      "Speed": 71,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/017.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/017.gif",
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "height": "1.09 m",
+    "weight": "30.0 kg",
+    "candy": "Pidgey Candy",
+    "candy_count": 50,
+    "egg": "Not in Eggs",
+    "spawn_chance": 1.02,
+    "avg_spawns": 102,
+    "spawn_time": "01:30",
+    "multipliers": [1.79],
+    "weaknesses": [
+      "Electric",
+      "Rock"
+    ],
+    "prev_evolution": [{
+      "num": "016",
+      "name": "Pidgey"
+    }],
+    "next_evolution": [{
+      "num": "018",
+      "name": "Pidgeot"
+    }]
+  }, {
+    "id": 18,
+    "num": "018",
+    "name": "Pidgeot",
+    "descriptiones": "El plumaje de este Pokémon es bonito e hipnótico. Muchos Entrenadores se quedan embobados ante la belleza impactante de las plumas que tiene en la cabeza; lo que les lleva a elegir a Pidgeot como su Pokémon.",
+    "descriptionus": "This Pokémon has a dazzling plumage of beautifully glossy feathers. Many Trainers are captivated by the striking beauty of the feathers on its head, compelling them to choose Pidgeot as their Pokémon.",
+     "HP": 83,
+      "Attack": 80,
+      "Defense": 75,
+      "Sp. Attack": 70,
+      "Sp. Defense": 70,
+      "Speed": 101,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/018.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/018.gif",
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "height": "1.50 m",
+    "weight": "39.5 kg",
+    "candy": "Pidgey Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.13,
+    "avg_spawns": 13,
+    "spawn_time": "01:50",
+    "multipliers": null,
+    "weaknesses": [
+      "Electric",
+      "Rock"
+    ],
+    "prev_evolution": [{
+      "num": "016",
+      "name": "Pidgey"
+    }, {
+      "num": "017",
+      "name": "Pidgeotto"
+    }]
+  }, {
+    "id": 19,
+    "num": "019",
+    "name": "Rattata",
+    "descriptiones": "Rattata es cauto como él solo. Hasta cuando duerme mueve las orejas para oír todos los ruidos. No es nada delicado a la hora de elegir su hábitat. Cualquier sitio es bueno para cavar su madriguera.",
+    "descriptionus": "Rattata is cautious in the extreme. Even while it is asleep, it constantly listens by moving its ears around. It is not picky about where it lives—it will make its nest anywhere.",
+     "HP": 30,
+      "Attack": 56,
+      "Defense": 35,
+      "Sp. Attack": 25,
+      "Sp. Defense": 35,
+      "Speed": 72,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/019.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/019.gif",
+    "type": [
+      "Normal"
+    ],
+    "height": "0.30 m",
+    "weight": "3.5 kg",
+    "candy": "Rattata Candy",
+    "candy_count": 25,
+    "egg": "2 km",
+    "spawn_chance": 13.05,
+    "avg_spawns": 1.305,
+    "spawn_time": "01:55",
+    "multipliers": [
+      2.55,
+      2.73
+    ],
+    "weaknesses": [
+      "Fighting"
+    ],
+    "next_evolution": [{
+      "num": "020",
+      "name": "Raticate"
+    }]
+  }, {
+    "id": 20,
+    "num": "020",
+    "name": "Raticate",
+    "descriptiones": "A Raticate le crecen los incisivos firmes y fuertes. Para mantenerlos afilados roe troncos y rocas, e incluso las paredes de las casas.",
+    "descriptionus": "Raticate's sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses.",
+    "HP": 55,
+      "Attack": 81,
+      "Defense": 60,
+      "Sp. Attack": 50,
+      "Sp. Defense": 70,
+      "Speed": 97,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/020.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/020.gif",
+    "type": [
+      "Normal"
+    ],
+    "height": "0.71 m",
+    "weight": "18.5 kg",
+    "candy": "Rattata Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.41,
+    "avg_spawns": 41,
+    "spawn_time": "01:56",
+    "multipliers": null,
+    "weaknesses": [
+      "Fighting"
+    ],
+    "prev_evolution": [{
+      "num": "019",
+      "name": "Rattata"
+    }]
+  }, {
+    "id": 21,
+    "num": "021",
+    "name": "Spearow",
+     "descriptiones": "Spearow pía con tanta fuerza que se le puede oír a 1 km de distancia. Si al agudo chillido le sigue una especie de eco, estaremos oyendo la respuesta de otros Spearow que contestan ante el aviso de peligro.",
+    "descriptionus": "Spearow has a very loud cry that can be heard over half a mile away. If its high, keening cry is heard echoing all around, it is a sign that they are warning each other of danger.",
+     "HP": 40,
+      "Attack": 60,
+      "Defense": 30,
+      "Sp. Attack": 31,
+      "Sp. Defense": 31,
+      "Speed": 70,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/021.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/021.gif",
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "height": "0.30 m",
+    "weight": "2.0 kg",
+    "candy": "Spearow Candy",
+    "candy_count": 50,
+    "egg": "2 km",
+    "spawn_chance": 4.73,
+    "avg_spawns": 473,
+    "spawn_time": "12:25",
+    "multipliers": [
+      2.66,
+      2.68
+    ],
+    "weaknesses": [
+      "Electric",
+      "Rock"
+    ],
+    "next_evolution": [{
+      "num": "022",
+      "name": "Fearow"
+    }]
+  }, {
+    "id": 22,
+    "num": "022",
+    "name": "Fearow",
+     "descriptiones": "A Fearow se le reconoce por tener un pescuezo y un pico largos que le permiten cazar en tierra y agua. Tiene una gran habilidad moviendo el fino pico para atrapar a sus presas.",
+    "descriptionus": "Fearow is recognized by its long neck and elongated beak. They are conveniently shaped for catching prey in soil or water. It deftly moves its long and skinny beak to pluck prey.",
+     "HP": 65,
+      "Attack": 90,
+      "Defense": 65,
+      "Sp. Attack": 61,
+      "Sp. Defense": 61,
+      "Speed": 100,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/022.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/022.gif",
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "height": "1.19 m",
+    "weight": "38.0 kg",
+    "candy": "Spearow Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.15,
+    "avg_spawns": 15,
+    "spawn_time": "01:11",
+    "multipliers": null,
+    "weaknesses": [
+      "Electric",
+      "Rock"
+    ],
+    "prev_evolution": [{
+      "num": "021",
+      "name": "Spearow"
+    }]
+  }, {
+    "id": 23,
+    "num": "023",
+    "name": "Ekans",
+     "descriptiones": "Ekans se enrosca para descansar. Adoptando esta posición puede responder rápidamente a cualquier amenaza que le aceche desde cualquier lugar, levantando la cabeza con una feroz mirada.",
+    "descriptionus": "Ekans curls itself up in a spiral while it rests. Assuming this position allows it to quickly respond to a threat from any direction with a glare from its upraised head.",
+    "HP": 35,
+      "Attack": 60,
+      "Defense": 44,
+      "Sp. Attack": 40,
+      "Sp. Defense": 54,
+      "Speed": 55,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/023.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/023.gif",
+    "type": [
+      "Poison"
+    ],
+    "height": "2.01 m",
+    "weight": "6.9 kg",
+    "candy": "Ekans Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 2.27,
+    "avg_spawns": 227,
+    "spawn_time": "12:20",
+    "multipliers": [
+      2.21,
+      2.27
+    ],
+    "weaknesses": [
+      "Ground",
+      "Psychic"
+    ],
+    "next_evolution": [{
+      "num": "024",
+      "name": "Arbok"
+    }]
+  }, {
+    "id": 24,
+    "num": "024",
+    "name": "Arbok",
+     "descriptiones": "Este Pokémon es tremendamente fuerte, puede oprimir cualquier cosa con su cuerpo y hasta es capaz de estrujar un barril de acero. Una vez que Arbok se enrosca a su víctima, no hay forma de escapar de su asfixiante abrazo.",
+    "descriptionus": "This Pokémon is terrifically strong in order to constrict things with its body. It can even flatten steel oil drums. Once Arbok wraps its body around its foe, escaping its crunching embrace is impossible.",
+     "HP": 60,
+      "Attack": 95,
+      "Defense": 69,
+      "Sp. Attack": 65,
+      "Sp. Defense": 79,
+      "Speed": 80,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/024.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/024.gif",
+    "type": [
+      "Poison"
+    ],
+    "height": "3.51 m",
+    "weight": "65.0 kg",
+    "candy": "Ekans Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.072,
+    "avg_spawns": 7.2,
+    "spawn_time": "01:50",
+    "multipliers": null,
+    "weaknesses": [
+      "Ground",
+      "Psychic"
+    ],
+    "prev_evolution": [{
+      "num": "023",
+      "name": "Ekans"
+    }]
+  }, {
+    "id": 25,
+    "num": "025",
+    "name": "Pikachu",
+    "descriptiones": "Cada vez que un Pikachu se encuentra con algo nuevo, le lanza una descarga eléctrica. Cuando se ve alguna baya chamuscada, es muy probable que sea obra de un Pikachu, ya que a veces no controlan la intensidad de la descarga.",
+    "descriptionus": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
+      "HP": 35,
+      "Attack": 55,
+      "Defense": 40,
+      "Sp. Attack": 50,
+      "Sp. Defense": 50,
+      "Speed": 90,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/025.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/025.gif",
+    "type": [
+      "Electric"
+    ],
+    "height": "0.41 m",
+    "weight": "6.0 kg",
+    "candy": "Pikachu Candy",
+    "candy_count": 50,
+    "egg": "2 km",
+    "spawn_chance": 0.21,
+    "avg_spawns": 21,
+    "spawn_time": "04:00",
+    "multipliers": [2.34],
+    "weaknesses": [
+      "Ground"
+    ],
+    "next_evolution": [{
+      "num": "026",
+      "name": "Raichu"
+    }]
+  }, {
+    "id": 26,
+    "num": "026",
+    "name": "Raichu",
+     "descriptiones": "Si las bolsas de los mofletes se le cargan demasiado, Raichu planta la cola en el suelo para liberar electricidad. Es común encontrar zonas chamuscadas cerca de la madriguera de este Pokémon.",
+    "descriptionus": "If the electrical sacs become excessively charged, Raichu plants its tail in the ground and discharges. Scorched patches of ground will be found near this Pokémon's nest.",
+    "HP": 60,
+      "Attack": 90,
+      "Defense": 55,
+      "Sp. Attack": 90,
+      "Sp. Defense": 80,
+      "Speed": 110,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/026.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/026.gif",
+    "type": [
+      "Electric"
+    ],
+    "height": "0.79 m",
+    "weight": "30.0 kg",
+    "candy": "Pikachu Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.0076,
+    "avg_spawns": 0.76,
+    "spawn_time": "23:58",
+    "multipliers": null,
+    "weaknesses": [
+      "Ground"
+    ],
+    "prev_evolution": [{
+      "num": "025",
+      "name": "Pikachu"
+    }]
+  }, {
+    "id": 27,
+    "num": "027",
+    "name": "Sandshrew",
+     "descriptiones": "Sandshrew es capaz de absorber agua y no perder ni una gota, algo que le permite sobrevivir en el desierto. Este Pokémon se enrosca para defenderse de los enemigos.",
+    "descriptionus": "Sandshrew's body is configured to absorb water without waste, enabling it to survive in an arid desert. This Pokémon curls up to protect itself from its enemies.",
+    "HP": 50,
+      "Attack": 75,
+      "Defense": 85,
+      "Sp. Attack": 20,
+      "Sp. Defense": 30,
+      "Speed": 40,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/027.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/027.gif",
+    "type": [
+      "Ground"
+    ],
+    "height": "0.61 m",
+    "weight": "12.0 kg",
+    "candy": "Sandshrew Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 1.11,
+    "avg_spawns": 111,
+    "spawn_time": "01:58",
+    "multipliers": [2.45],
+    "weaknesses": [
+      "Water",
+      "Grass",
+      "Ice"
+    ],
+    "next_evolution": [{
+      "num": "028",
+      "name": "Sandslash"
+    }]
+  }, {
+    "id": 28,
+    "num": "028",
+    "name": "Sandslash",
+     "descriptiones": "Sandslash está recubierto de duras púas que son partes endurecidas de la piel. Suele mudarlas una vez al año; debajo de las viejas púas crecen unas nuevas que las sustituyen.",
+    "descriptionus": "Sandslash's body is covered by tough spikes, which are hardened sections of its hide. Once a year, the old spikes fall out, to be replaced with new spikes that grow out from beneath the old ones.",
+     "HP": 75,
+      "Attack": 100,
+      "Defense": 110,
+      "Sp. Attack": 45,
+      "Sp. Defense": 55,
+      "Speed": 65,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/028.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/028.gif",
+    "type": [
+      "Ground"
+    ],
+    "height": "0.99 m",
+    "weight": "29.5 kg",
+    "candy": "Sandshrew Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.037,
+    "avg_spawns": 3.7,
+    "spawn_time": "12:34",
+    "multipliers": null,
+    "weaknesses": [
+      "Water",
+      "Grass",
+      "Ice"
+    ],
+    "prev_evolution": [{
+      "num": "027",
+      "name": "Sandshrew"
+    }]
+  }, {
+    "id": 29,
+    "num": "029",
+    "name": "Nidoran ♀ (Female)",
+     "descriptiones": "Nidoran♀ tiene púas que segregan un veneno muy potente. Se piensa que las desarrolló como protección del cuerpo tan pequeño que tiene. Cuando se enfada, libera una horrible sustancia tóxica por el cuerno.",
+    "descriptionus": "Nidoran♀ has barbs that secrete a powerful poison. They are thought to have developed as protection for this small-bodied Pokémon. When enraged, it releases a horrible toxin from its horn.",
+    "HP": 55,
+      "Attack": 47,
+      "Defense": 52,
+      "Sp. Attack": 40,
+      "Sp. Defense": 40,
+      "Speed": 41,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/029.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/029.gif",
+    "type": [
+      "Poison"
+    ],
+    "height": "0.41 m",
+    "weight": "7.0 kg",
+    "candy": "Nidoran ♀ (Female) Candy",
+    "candy_count": 25,
+    "egg": "5 km",
+    "spawn_chance": 1.38,
+    "avg_spawns": 138,
+    "spawn_time": "01:51",
+    "multipliers": [
+      1.63,
+      2.48
+    ],
+    "weaknesses": [
+      "Ground",
+      "Psychic"
+    ],
+    "next_evolution": [{
+      "num": "030",
+      "name": "Nidorina"
+    }, {
+      "num": "031",
+      "name": "Nidoqueen"
+    }]
+  }, {
+    "id": 30,
+    "num": "030",
+    "name": "Nidorina",
+     "descriptiones": "Cuando están en familia o con sus amigos, esconden las púas para evitar accidentes. Según parece, se alteran bastante si se separan del grupo.",
+    "descriptionus": "When Nidorina are with their friends or family, they keep their barbs tucked away to prevent hurting each other. This Pokémon appears to become nervous if separated from the others.",
+     "HP": 70,
+      "Attack": 62,
+      "Defense": 67,
+      "Sp. Attack": 55,
+      "Sp. Defense": 55,
+      "Speed": 56,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/030.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/030.gif",
+    "type": [
+      "Poison"
+    ],
+    "height": "0.79 m",
+    "weight": "20.0 kg",
+    "candy": "Nidoran ♀ (Female) Candy",
+    "candy_count": 100,
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.088,
+    "avg_spawns": 8.8,
+    "spawn_time": "07:22",
+    "multipliers": [
+      1.83,
+      2.48
+    ],
+    "weaknesses": [
+      "Ground",
+      "Psychic"
+    ],
+    "prev_evolution": [{
+      "num": "029",
+      "name": "Nidoran(Female)"
+    }],
+    "next_evolution": [{
+      "num": "031",
+      "name": "Nidoqueen"
+    }]
+  }, {
+    "id": 31,
+    "num": "031",
+    "name": "Nidoqueen",
+     "descriptiones": "Nidoqueen tiene el cuerpo totalmente recubierto de escamas durísimas. Suele lanzar por los aires a sus rivales de los violentos golpes que les propina. Cuando se trata de defender a sus crías, alcanza su nivel máximo de fuerza.",
+    "descriptionus": "Nidoqueen's body is encased in extremely hard scales. It is adept at sending foes flying with harsh tackles. This Pokémon is at its strongest when it is defending its young.",
+    "HP": 90,
+      "Attack": 92,
+      "Defense": 87,
+      "Sp. Attack": 75,
+      "Sp. Defense": 85,
+      "Speed": 76,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/031.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/031.gif",
+    "type": [
+      "Poison",
+      "Ground"
+    ],
+    "height": "1.30 m",
+    "weight": "60.0 kg",
+    "candy": "Nidoran ♀ (Female) Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.012,
+    "avg_spawns": 1.2,
+    "spawn_time": "12:35",
+    "multipliers": null,
+    "weaknesses": [
+      "Water",
+      "Ice",
+      "Ground",
+      "Psychic"
+    ],
+    "prev_evolution": [{
+      "num": "029",
+      "name": "Nidoran(Female)"
+    }, {
+      "num": "030",
+      "name": "Nidorina"
+    }]
+  }, {
+    "id": 32,
+    "num": "032",
+    "name": "Nidoran ♂ (Male)",
+     "descriptiones": "",
+    "descriptionus": "",
+    "HP": 46,
+      "Attack": 57,
+      "Defense": 40,
+      "Sp. Attack": 40,
+      "Sp. Defense": 40,
+      "Speed": 50,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/031.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/032.gif",
+    "type": [
+      "Poison"
+    ],
+    "height": "0.51 m",
+    "weight": "9.0 kg",
+    "candy": "Nidoran ♂ (Male) Candy",
+    "candy_count": 25,
+    "egg": "5 km",
+    "spawn_chance": 1.31,
+    "avg_spawns": 131,
+    "spawn_time": "01:12",
+    "multipliers": [
+      1.64,
+      1.7
+    ],
+    "weaknesses": [
+      "Ground",
+      "Psychic"
+    ],
+    "next_evolution": [{
+      "num": "033",
+      "name": "Nidorino"
+    }, {
+      "num": "034",
+      "name": "Nidoking"
+    }]
+  }, {
+    "id": 33,
+    "num": "033",
+    "name": "Nidorino",
+     "descriptiones": "",
+    "descriptionus": "",
+    "HP": 61,
+      "Attack": 72,
+      "Defense": 57,
+      "Sp. Attack": 55,
+      "Sp. Defense": 55,
+      "Speed": 65,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/019.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/033.gif",
+    "type": [
+      "Poison"
+    ],
+    "height": "0.89 m",
+    "weight": "19.5 kg",
+    "candy": "Nidoran ♂ (Male) Candy",
+    "candy_count": 100,
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.083,
+    "avg_spawns": 8.3,
+    "spawn_time": "09:02",
+    "multipliers": [1.83],
+    "weaknesses": [
+      "Ground",
+      "Psychic"
+    ],
+    "prev_evolution": [{
+      "num": "032",
+      "name": "Nidoran(Male)"
+    }],
+    "next_evolution": [{
+      "num": "034",
+      "name": "Nidoking"
+    }]
+  }, {
+    "id": 34,
+    "num": "034",
+    "name": "Nidoking",
+     "descriptiones": "",
+    "descriptionus": "",
+     "HP": 81,
+      "Attack": 102,
+      "Defense": 77,
+      "Sp. Attack": 85,
+      "Sp. Defense": 75,
+      "Speed": 85,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/019.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/034.gif",
+    "type": [
+      "Poison",
+      "Ground"
+    ],
+    "height": "1.40 m",
+    "weight": "62.0 kg",
+    "candy": "Nidoran ♂ (Male) Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.017,
+    "avg_spawns": 1.7,
+    "spawn_time": "12:16",
+    "multipliers": null,
+    "weaknesses": [
+      "Water",
+      "Ice",
+      "Ground",
+      "Psychic"
+    ],
+    "prev_evolution": [{
+      "num": "032",
+      "name": "Nidoran(Male)"
+    }, {
+      "num": "033",
+      "name": "Nidorino"
+    }]
+  }, {
+    "id": 35,
+    "num": "035",
+    "name": "Clefairy",
+     "descriptiones": "",
+    "descriptionus": "",
+    "HP": 70,
+      "Attack": 45,
+      "Defense": 48,
+      "Sp. Attack": 60,
+      "Sp. Defense": 65,
+      "Speed": 35,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/019.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/035.gif",
+    "type": [
+      "Normal"
+    ],
+    "height": "0.61 m",
+    "weight": "7.5 kg",
+    "candy": "Clefairy Candy",
+    "candy_count": 50,
+    "egg": "2 km",
+    "spawn_chance": 0.92,
+    "avg_spawns": 92,
+    "spawn_time": "03:30",
+    "multipliers": [
+      2.03,
+      2.14
+    ],
+    "weaknesses": [
+      "Fighting"
+    ],
+    "next_evolution": [{
+      "num": "036",
+      "name": "Clefable"
+    }]
+  }, {
+    "id": 36,
+    "num": "036",
+    "name": "Clefable",
+     "descriptiones": "",
+    "descriptionus": "",
+    "HP": 95,
+      "Attack": 70,
+      "Defense": 73,
+      "Sp. Attack": 95,
+      "Sp. Defense": 90,
+      "Speed": 60,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/019.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/036.gif",
+    "type": [
+      "Normal"
+    ],
+    "height": "1.30 m",
+    "weight": "40.0 kg",
+    "candy": "Clefairy Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.012,
+    "avg_spawns": 1.2,
+    "spawn_time": "03:29",
+    "multipliers": null,
+    "weaknesses": [
+      "Fighting"
+    ],
+    "prev_evolution": [{
+      "num": "035",
+      "name": "Clefairy"
+    }]
+  }, {
+    "id": 37,
+    "num": "037",
+    "name": "Vulpix",
+     "descriptiones": "",
+    "descriptionus": "",
+    "HP": 38,
+      "Attack": 41,
+      "Defense": 40,
+      "Sp. Attack": 50,
+      "Sp. Defense": 65,
+      "Speed": 65,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/019.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/037.gif",
+    "type": [
+      "Fire"
+    ],
+    "height": "0.61 m",
+    "weight": "9.9 kg",
+    "candy": "Vulpix Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 0.22,
+    "avg_spawns": 22,
+    "spawn_time": "13:43",
+    "multipliers": [
+      2.74,
+      2.81
+    ],
+    "weaknesses": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "next_evolution": [{
+      "num": "038",
+      "name": "Ninetales"
+    }]
+  }, {
+    "id": 38,
+    "num": "038",
+    "name": "Ninetales",
+     "descriptiones": "",
+    "descriptionus": "",
+     "HP": 73,
+      "Attack": 76,
+      "Defense": 75,
+      "Sp. Attack": 81,
+      "Sp. Defense": 100,
+      "Speed": 100,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/038.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/038.gif",
+    "type": [
+      "Fire"
+    ],
+    "height": "1.09 m",
+    "weight": "19.9 kg",
+    "candy": "Vulpix Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.0077,
+    "avg_spawns": 0.77,
+    "spawn_time": "01:32",
+    "multipliers": null,
+    "weaknesses": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "prev_evolution": [{
+      "num": "037",
+      "name": "Vulpix"
+    }]
+  }, {
+    "id": 39,
+    "num": "039",
+    "name": "Jigglypuff",
+     "descriptiones": "",
+    "descriptionus": "",
+    "HP": 115,
+      "Attack": 45,
+      "Defense": 20,
+      "Sp. Attack": 45,
+      "Sp. Defense": 25,
+      "Speed": 20,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/019.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/039.gif",
+    "type": [
+      "Normal"
+    ],
+    "height": "0.51 m",
+    "weight": "5.5 kg",
+    "candy": "Jigglypuff Candy",
+    "candy_count": 50,
+    "egg": "2 km",
+    "spawn_chance": 0.39,
+    "avg_spawns": 39,
+    "spawn_time": "08:46",
+    "multipliers": [1.85],
+    "weaknesses": [
+      "Fighting"
+    ],
+    "next_evolution": [{
+      "num": "040",
+      "name": "Wigglytuff"
+    }]
+  }, {
+    "id": 40,
+    "num": "040",
+    "name": "Wigglytuff",
+     "descriptiones": "",
+    "descriptionus": "",
+     "HP": 140,
+      "Attack": 70,
+      "Defense": 45,
+      "Sp. Attack": 85,
+      "Sp. Defense": 50,
+      "Speed": 45,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/019.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/040.gif",
+    "type": [
+      "Normal"
+    ],
+    "height": "0.99 m",
+    "weight": "12.0 kg",
+    "candy": "Jigglypuff Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.018,
+    "avg_spawns": 1.8,
+    "spawn_time": "12:28",
+    "multipliers": null,
+    "weaknesses": [
+      "Fighting"
+    ],
+    "prev_evolution": [{
+      "num": "039",
+      "name": "Jigglypuff"
+    }]
+  }, {
+    "id": 41,
+    "num": "041",
+    "name": "Zubat",
+     "descriptiones": "",
+    "descriptionus": "",
+      "HP": 40,
+      "Attack": 45,
+      "Defense": 35,
+      "Sp. Attack": 30,
+      "Sp. Defense": 40,
+      "Speed": 55,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/019.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/041.gif",
+    "type": [
+      "Poison",
+      "Flying"
+    ],
+    "height": "0.79 m",
+    "weight": "7.5 kg",
+    "candy": "Zubat Candy",
+    "candy_count": 50,
+    "egg": "2 km",
+    "spawn_chance": 6.52,
+    "avg_spawns": 652,
+    "spawn_time": "12:28",
+    "multipliers": [
+      2.6,
+      3.67
+    ],
+    "weaknesses": [
+      "Electric",
+      "Ice",
+      "Psychic",
+      "Rock"
+    ],
+    "next_evolution": [{
+      "num": "042",
+      "name": "Golbat"
+    }]
+  }, {
+    "id": 42,
+    "num": "042",
+    "name": "Golbat",
+     "descriptiones": "",
+    "descriptionus": "",
+     "HP": 75,
+      "Attack": 80,
+      "Defense": 70,
+      "Sp. Attack": 65,
+      "Sp. Defense": 75,
+      "Speed": 90,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/019.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/042.gif",
+    "type": [
+      "Poison",
+      "Flying"
+    ],
+    "height": "1.60 m",
+    "weight": "55.0 kg",
+    "candy": "Zubat Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.42,
+    "avg_spawns": 42,
+    "spawn_time": "02:15",
+    "multipliers": null,
+    "weaknesses": [
+      "Electric",
+      "Ice",
+      "Psychic",
+      "Rock"
+    ],
+    "prev_evolution": [{
+      "num": "041",
+      "name": "Zubat"
+    }]
+  }, {
+    "id": 43,
+    "num": "043",
+    "name": "Oddish",
+     "descriptiones": "",
+    "descriptionus": "",
+     "HP": 45,
+      "Attack": 50,
+      "Defense": 55,
+      "Sp. Attack": 75,
+      "Sp. Defense": 65,
+      "Speed": 30,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/019.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/043.gif",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "height": "0.51 m",
+    "weight": "5.4 kg",
+    "candy": "Oddish Candy",
+    "candy_count": 25,
+    "egg": "5 km",
+    "spawn_chance": 1.02,
+    "avg_spawns": 102,
+    "spawn_time": "03:58",
+    "multipliers": [1.5],
+    "weaknesses": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ],
+    "next_evolution": [{
+      "num": "044",
+      "name": "Gloom"
+    }, {
+      "num": "045",
+      "name": "Vileplume"
+    }]
+  }, {
+    "id": 44,
+    "num": "044",
+    "name": "Gloom",
+     "descriptiones": "",
+    "descriptionus": "",
+          "HP": 60,
+      "Attack": 65,
+      "Defense": 70,
+      "Sp. Attack": 85,
+      "Sp. Defense": 75,
+      "Speed": 40,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/019.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/044.gif",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "height": "0.79 m",
+    "weight": "8.6 kg",
+    "candy": "Oddish Candy",
+    "candy_count": 100,
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.064,
+    "avg_spawns": 6.4,
+    "spawn_time": "11:33",
+    "multipliers": [1.49],
+    "weaknesses": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ],
+    "prev_evolution": [{
+      "num": "043",
+      "name": "Oddish"
+    }],
+    "next_evolution": [{
+      "num": "045",
+      "name": "Vileplume"
+    }]
+  }, {
+    "id": 45,
+    "num": "045",
+    "name": "Vileplume",
+      "descriptiones": "",
+    "descriptionus": "",
+    "HP": 75,
+      "Attack": 80,
+      "Defense": 85,
+      "Sp. Attack": 110,
+      "Sp. Defense": 90,
+      "Speed": 50,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/019.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/045.gif",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "height": "1.19 m",
+    "weight": "18.6 kg",
+    "candy": "Oddish Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.0097,
+    "avg_spawns": 0.97,
+    "spawn_time": "23:58",
+    "multipliers": null,
+    "weaknesses": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ],
+    "prev_evolution": [{
+      "num": "043",
+      "name": "Oddish"
+    }, {
+      "num": "044",
+      "name": "Gloom"
+    }]
+  }, {
+    "id": 46,
+    "num": "046",
+    "name": "Paras",
+     "descriptiones": "",
+    "descriptionus": "",
+     "HP": 35,
+      "Attack": 70,
+      "Defense": 55,
+      "Sp. Attack": 45,
+      "Sp. Defense": 55,
+      "Speed": 25,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/019.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/046.gif",
+    "type": [
+      "Bug",
+      "Grass"
+    ],
+    "height": "0.30 m",
+    "weight": "5.4 kg",
+    "candy": "Paras Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 2.36,
+    "avg_spawns": 236,
+    "spawn_time": "01:42",
+    "multipliers": [2.02],
+    "weaknesses": [
+      "Fire",
+      "Ice",
+      "Poison",
+      "Flying",
+      "Bug",
+      "Rock"
+    ],
+    "next_evolution": [{
+      "num": "047",
+      "name": "Parasect"
+    }]
+  }, {
+    "id": 47,
+    "num": "047",
+    "name": "Parasect",
+     "descriptiones": "",
+    "descriptionus": "",
+           "HP": 60,
+      "Attack": 95,
+      "Defense": 80,
+      "Sp. Attack": 60,
+      "Sp. Defense": 80,
+      "Speed": 30,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/019.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/047.gif",
+    "type": [
+      "Bug",
+      "Grass"
+    ],
+    "height": "0.99 m",
+    "weight": "29.5 kg",
+    "candy": "Paras Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.074,
+    "avg_spawns": 7.4,
+    "spawn_time": "01:22",
+    "multipliers": null,
+    "weaknesses": [
+      "Fire",
+      "Ice",
+      "Poison",
+      "Flying",
+      "Bug",
+      "Rock"
+    ],
+    "prev_evolution": [{
+      "num": "046",
+      "name": "Paras"
+    }]
+  }, {
+    "id": 48,
+    "num": "048",
+    "name": "Venonat",
+     "descriptiones": "",
+    "descriptionus": "",
+     "HP": 60,
+      "Attack": 55,
+      "Defense": 50,
+      "Sp. Attack": 40,
+      "Sp. Defense": 55,
+      "Speed": 45,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/048.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/048.gif",
+    "type": [
+      "Bug",
+      "Poison"
+    ],
+    "height": "0.99 m",
+    "weight": "30.0 kg",
+    "candy": "Venonat Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 2.28,
+    "avg_spawns": 228,
+    "spawn_time": "02:31",
+    "multipliers": [
+      1.86,
+      1.9
+    ],
+    "weaknesses": [
+      "Fire",
+      "Flying",
+      "Psychic",
+      "Rock"
+    ],
+    "next_evolution": [{
+      "num": "049",
+      "name": "Venomoth"
+    }]
+  }, {
+    "id": 49,
+    "num": "049",
+    "name": "Venomoth",
+     "descriptiones": "",
+    "descriptionus": "",
+     "HP": 70,
+      "Attack": 65,
+      "Defense": 60,
+      "Sp. Attack": 90,
+      "Sp. Defense": 75,
+      "Speed": 90,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/019.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/049.gif",
+    "type": [
+      "Bug",
+      "Poison"
+    ],
+    "height": "1.50 m",
+    "weight": "12.5 kg",
+    "candy": "Venonat Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.072,
+    "avg_spawns": 7.2,
+    "spawn_time": "23:40",
+    "multipliers": null,
+    "weaknesses": [
+      "Fire",
+      "Flying",
+      "Psychic",
+      "Rock"
+    ],
+    "prev_evolution": [{
+      "num": "048",
+      "name": "Venonat"
+    }]
+  }, {
+    "id": 50,
+    "num": "050",
+    "name": "Diglett",
+     "descriptiones": "",
+    "descriptionus": "",
+     "HP": 10,
+      "Attack": 55,
+      "Defense": 25,
+      "Sp. Attack": 35,
+      "Sp. Defense": 45,
+      "Speed": 95,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/019.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/050.gif",
+    "type": [
+      "Ground"
+    ],
+    "height": "0.20 m",
+    "weight": "0.8 kg",
+    "candy": "Diglett Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 0.40,
+    "avg_spawns": 40,
+    "spawn_time": "02:22",
+    "multipliers": [2.69],
+    "weaknesses": [
+      "Water",
+      "Grass",
+      "Ice"
+    ],
+    "next_evolution": [{
+      "num": "051",
+      "name": "Dugtrio"
+    }]
+  }, {
+    "id": 51,
+    "num": "051",
+    "name": "Dugtrio",
+     "descriptiones": "",
+    "descriptionus": "",
+     "HP": 35,
+      "Attack": 100,
+      "Defense": 50,
+      "Sp. Attack": 50,
+      "Sp. Defense": 70,
+      "Speed": 120,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/051.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/051.gif",
+    "type": [
+      "Ground"
+    ],
+    "height": "0.71 m",
+    "weight": "33.3 kg",
+    "candy": "Dugtrio",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.014,
+    "avg_spawns": 1.4,
+    "spawn_time": "12:37",
+    "multipliers": null,
+    "weaknesses": [
+      "Water",
+      "Grass",
+      "Ice"
+    ],
+    "prev_evolution": [{
+      "num": "050",
+      "name": "Diglett"
+    }]
+  }, {
+    "id": 52,
+    "num": "052",
+    "name": "Meowth",
+     "descriptiones": "",
+    "descriptionus": "",
+     "HP": 40,
+      "Attack": 45,
+      "Defense": 35,
+      "Sp. Attack": 40,
+      "Sp. Defense": 40,
+      "Speed": 90,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/052.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/052.gif",
+    "type": [
+      "Normal"
+    ],
+    "height": "0.41 m",
+    "weight": "4.2 kg",
+    "candy": "Meowth Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 0.86,
+    "avg_spawns": 86,
+    "spawn_time": "02:54",
+    "multipliers": [1.98],
+    "weaknesses": [
+      "Fighting"
+    ],
+    "next_evolution": [{
+      "num": "053",
+      "name": "Persian"
+    }]
+  }, {
+    "id": 53,
+    "num": "053",
+    "name": "Persian",
+       "descriptiones": "",
+    "descriptionus": "",
+           "HP": 65,
+      "Attack": 70,
+      "Defense": 60,
+      "Sp. Attack": 65,
+      "Sp. Defense": 65,
+      "Speed": 115,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/052.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/053.gif",
+    "type": [
+      "Normal"
+    ],
+    "height": "0.99 m",
+    "weight": "32.0 kg",
+    "candy": "Meowth Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.022,
+    "avg_spawns": 2.2,
+    "spawn_time": "02:44",
+    "multipliers": null,
+    "weaknesses": [
+      "Fighting"
+    ],
+    "prev_evolution": [{
+      "num": "052",
+      "name": "Meowth"
+    }]
+  }, {
+    "id": 54,
+    "num": "054",
+    "name": "Psyduck",
+       "descriptiones": "",
+    "descriptionus": "",
+      "HP": 50,
+      "Attack": 52,
+      "Defense": 48,
+      "Sp. Attack": 65,
+      "Sp. Defense": 50,
+      "Speed": 55,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/052.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/054.gif",
+    "type": [
+      "Water"
+    ],
+    "height": "0.79 m",
+    "weight": "19.6 kg",
+    "candy": "Psyduck Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 2.54,
+    "avg_spawns": 254,
+    "spawn_time": "03:41",
+    "multipliers": [2.27],
+    "weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "next_evolution": [{
+      "num": "055",
+      "name": "Golduck"
+    }]
+  }, {
+    "id": 55,
+    "num": "055",
+    "name": "Golduck",
+     "descriptiones": "",
+    "descriptionus": "",
+      "HP": 80,
+      "Attack": 82,
+      "Defense": 78,
+      "Sp. Attack": 95,
+      "Sp. Defense": 80,
+      "Speed": 85,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/052.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/055.gif",
+    "type": [
+      "Water"
+    ],
+    "height": "1.70 m",
+    "weight": "76.6 kg",
+    "candy": "Psyduck Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.087,
+    "avg_spawns": 8.7,
+    "spawn_time": "23:06",
+    "multipliers": null,
+    "weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "prev_evolution": [{
+      "num": "054",
+      "name": "Psyduck"
+    }]
+  }, {
+    "id": 56,
+    "num": "056",
+    "name": "Mankey",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 40,
+      "Attack": 80,
+      "Defense": 35,
+      "Sp. Attack": 35,
+      "Sp. Defense": 45,
+      "Speed": 70,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/052.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/056.gif",
+    "type": [
+      "Fighting"
+    ],
+    "height": "0.51 m",
+    "weight": "28.0 kg",
+    "candy": "Mankey Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 0.92,
+    "avg_spawns": 92,
+    "spawn_time": "12:52",
+    "multipliers": [
+      2.17,
+      2.28
+    ],
+    "weaknesses": [
+      "Flying",
+      "Psychic",
+      "Fairy"
+    ],
+    "next_evolution": [{
+      "num": "057",
+      "name": "Primeape"
+    }]
+  }, {
+    "id": 57,
+    "num": "057",
+    "name": "Primeape",
+     "descriptiones": "",
+    "descriptionus": "",
+      "HP": 65,
+      "Attack": 105,
+      "Defense": 60,
+      "Sp. Attack": 60,
+      "Sp. Defense": 70,
+      "Speed": 95,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/052.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/057.gif",
+    "type": [
+      "Fighting"
+    ],
+    "height": "0.99 m",
+    "weight": "32.0 kg",
+    "candy": "Mankey Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.031,
+    "avg_spawns": 3.1,
+    "spawn_time": "12:33",
+    "multipliers": null,
+    "weaknesses": [
+      "Flying",
+      "Psychic",
+      "Fairy"
+    ],
+    "prev_evolution": [{
+      "num": "056",
+      "name": "Mankey"
+    }]
+  }, {
+    "id": 58,
+    "num": "058",
+    "name": "Growlithe",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 55,
+      "Attack": 70,
+      "Defense": 45,
+      "Sp. Attack": 70,
+      "Sp. Defense": 50,
+      "Speed": 60,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/052.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/058.gif",
+    "type": [
+      "Fire"
+    ],
+    "height": "0.71 m",
+    "weight": "19.0 kg",
+    "candy": "Growlithe Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 0.92,
+    "avg_spawns": 92,
+    "spawn_time": "03:57",
+    "multipliers": [
+      2.31,
+      2.36
+    ],
+    "weaknesses": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "next_evolution": [{
+      "num": "059",
+      "name": "Arcanine"
+    }]
+  }, {
+    "id": 59,
+    "num": "059",
+    "name": "Arcanine",
+     "descriptiones": "",
+    "descriptionus": "",
+      "HP": 90,
+      "Attack": 110,
+      "Defense": 80,
+      "Sp. Attack": 100,
+      "Sp. Defense": 80,
+      "Speed": 95,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/052.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/059.gif",
+    "type": [
+      "Fire"
+    ],
+    "height": "1.91 m",
+    "weight": "155.0 kg",
+    "candy": "Growlithe Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.017,
+    "avg_spawns": 1.7,
+    "spawn_time": "03:11",
+    "multipliers": null,
+    "weaknesses": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "prev_evolution": [{
+      "num": "058",
+      "name": "Growlithe"
+    }]
+  }, {
+    "id": 60,
+    "num": "060",
+    "name": "Poliwag",
+     "descriptiones": "",
+    "descriptionus": "",
+      "HP": 40,
+      "Attack": 50,
+      "Defense": 40,
+      "Sp. Attack": 40,
+      "Sp. Defense": 40,
+      "Speed": 90,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/052.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/060.gif",
+    "type": [
+      "Water"
+    ],
+    "height": "0.61 m",
+    "weight": "12.4 kg",
+    "candy": "Poliwag Candy",
+    "candy_count": 25,
+    "egg": "5 km",
+    "spawn_chance": 2.19,
+    "avg_spawns": 219,
+    "spawn_time": "03:40",
+    "multipliers": [
+      1.72,
+      1.73
+    ],
+    "weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "next_evolution": [{
+      "num": "061",
+      "name": "Poliwhirl"
+    }, {
+      "num": "062",
+      "name": "Poliwrath"
+    }]
+  }, {
+    "id": 61,
+    "num": "061",
+    "name": "Poliwhirl",
+     "descriptiones": "",
+    "descriptionus": "",
+     "HP": 65,
+      "Attack": 65,
+      "Defense": 65,
+      "Sp. Attack": 50,
+      "Sp. Defense": 50,
+      "Speed": 90,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/052.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/061.gif",
+    "type": [
+      "Water"
+    ],
+    "height": "0.99 m",
+    "weight": "20.0 kg",
+    "candy": "Poliwag Candy",
+    "candy_count": 100,
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.13,
+    "avg_spawns": 13,
+    "spawn_time": "09:14",
+    "multipliers": [1.95],
+    "weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "prev_evolution": [{
+      "num": "060",
+      "name": "Poliwag"
+    }],
+    "next_evolution": [{
+      "num": "062",
+      "name": "Poliwrath"
+    }]
+  }, {
+    "id": 62,
+    "num": "062",
+    "name": "Poliwrath",
+     "descriptiones": "",
+    "descriptionus": "",
+      "HP": 90,
+      "Attack": 95,
+      "Defense": 95,
+      "Sp. Attack": 70,
+      "Sp. Defense": 90,
+      "Speed": 70,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/062.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/062.gif",
+    "type": [
+      "Water",
+      "Fighting"
+    ],
+    "height": "1.30 m",
+    "weight": "54.0 kg",
+    "candy": "Poliwag Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.011,
+    "avg_spawns": 1.1,
+    "spawn_time": "01:32",
+    "multipliers": null,
+    "weaknesses": [
+      "Electric",
+      "Grass",
+      "Flying",
+      "Psychic",
+      "Fairy"
+    ],
+    "prev_evolution": [{
+      "num": "060",
+      "name": "Poliwag"
+    }, {
+      "num": "061",
+      "name": "Poliwhirl"
+    }]
+  }, {
+    "id": 63,
+    "num": "063",
+    "name": "Abra",
+      "descriptiones": "",
+    "descriptionus": "",
+            "HP": 25,
+      "Attack": 20,
+      "Defense": 15,
+      "Sp. Attack": 105,
+      "Sp. Defense": 55,
+      "Speed": 90,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/063.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/063.gif",
+    "type": [
+      "Psychic"
+    ],
+    "height": "0.89 m",
+    "weight": "19.5 kg",
+    "candy": "Abra Candy",
+    "candy_count": 25,
+    "egg": "5 km",
+    "spawn_chance": 0.42,
+    "avg_spawns": 42,
+    "spawn_time": "04:30",
+    "multipliers": [
+      1.36,
+      1.95
+    ],
+    "weaknesses": [
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "next_evolution": [{
+      "num": "064",
+      "name": "Kadabra"
+    }, {
+      "num": "065",
+      "name": "Alakazam"
+    }]
+  }, {
+    "id": 64,
+    "num": "064",
+    "name": "Kadabra",
+      "descriptiones": "",
+    "descriptionus": "",
+       "HP": 40,
+      "Attack": 35,
+      "Defense": 30,
+      "Sp. Attack": 120,
+      "Sp. Defense": 70,
+      "Speed": 105,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/064.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/064.gif",
+    "type": [
+      "Psychic"
+    ],
+    "height": "1.30 m",
+    "weight": "56.5 kg",
+    "candy": "Abra Candy",
+    "candy_count": 100,
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.027,
+    "avg_spawns": 2.7,
+    "spawn_time": "11:25",
+    "multipliers": [1.4],
+    "weaknesses": [
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "prev_evolution": [{
+      "num": "063",
+      "name": "Abra"
+    }],
+    "next_evolution": [{
+      "num": "065",
+      "name": "Alakazam"
+    }]
+  }, {
+    "id": 65,
+    "num": "065",
+    "name": "Alakazam",
+       "descriptiones": "",
+    "descriptionus": "",
+       "HP": 55,
+      "Attack": 50,
+      "Defense": 45,
+      "Sp. Attack": 135,
+      "Sp. Defense": 95,
+      "Speed": 120,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/065.gif",
+    "type": [
+      "Psychic"
+    ],
+    "height": "1.50 m",
+    "weight": "48.0 kg",
+    "candy": "Abra Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.0073,
+    "avg_spawns": 0.73,
+    "spawn_time": "12:33",
+    "multipliers": null,
+    "weaknesses": [
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "prev_evolution": [{
+      "num": "063",
+      "name": "Abra"
+    }, {
+      "num": "064",
+      "name": "Kadabra"
+    }]
+  }, {
+    "id": 66,
+    "num": "066",
+    "name": "Machop",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 70,
+      "Attack": 80,
+      "Defense": 50,
+      "Sp. Attack": 35,
+      "Sp. Defense": 35,
+      "Speed": 35,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/066.gif",
+    "type": [
+      "Fighting"
+    ],
+    "height": "0.79 m",
+    "weight": "19.5 kg",
+    "candy": "Machop Candy",
+    "candy_count": 25,
+    "egg": "5 km",
+    "spawn_chance": 0.49,
+    "avg_spawns": 49,
+    "spawn_time": "01:55",
+    "multipliers": [
+      1.64,
+      1.65
+    ],
+    "weaknesses": [
+      "Flying",
+      "Psychic",
+      "Fairy"
+    ],
+    "next_evolution": [{
+      "num": "067",
+      "name": "Machoke"
+    }, {
+      "num": "068",
+      "name": "Machamp"
+    }]
+  }, {
+    "id": 67,
+    "num": "067",
+    "name": "Machoke",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 80,
+      "Attack": 100,
+      "Defense": 70,
+      "Sp. Attack": 50,
+      "Sp. Defense": 60,
+      "Speed": 45,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/067.gif",
+    "type": [
+      "Fighting"
+    ],
+    "height": "1.50 m",
+    "weight": "70.5 kg",
+    "candy": "Machop Candy",
+    "candy_count": 100,
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.034,
+    "avg_spawns": 3.4,
+    "spawn_time": "10:32",
+    "multipliers": [1.7],
+    "weaknesses": [
+      "Flying",
+      "Psychic",
+      "Fairy"
+    ],
+    "prev_evolution": [{
+      "num": "066",
+      "name": "Machop"
+    }],
+    "next_evolution": [{
+      "num": "068",
+      "name": "Machamp"
+    }]
+  }, {
+    "id": 68,
+    "num": "068",
+    "name": "Machamp",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 90,
+      "Attack": 130,
+      "Defense": 80,
+      "Sp. Attack": 65,
+      "Sp. Defense": 85,
+      "Speed": 55,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/068.gif",
+    "type": [
+      "Fighting"
+    ],
+    "height": "1.60 m",
+    "weight": "130.0 kg",
+    "candy": "Machop Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.0068,
+    "avg_spawns": 0.68,
+    "spawn_time": "02:55",
+    "multipliers": null,
+    "weaknesses": [
+      "Flying",
+      "Psychic",
+      "Fairy"
+    ],
+    "prev_evolution": [{
+      "num": "066",
+      "name": "Machop"
+    }, {
+      "num": "067",
+      "name": "Machoke"
+    }]
+  }, {
+    "id": 69,
+    "num": "069",
+    "name": "Bellsprout",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 50,
+      "Attack": 75,
+      "Defense": 35,
+      "Sp. Attack": 70,
+      "Sp. Defense": 30,
+      "Speed": 40,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/069.gif",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "height": "0.71 m",
+    "weight": "4.0 kg",
+    "candy": "Bellsprout Candy",
+    "candy_count": 25,
+    "egg": "5 km",
+    "spawn_chance": 1.15,
+    "avg_spawns": 115,
+    "spawn_time": "04:10",
+    "multipliers": [1.57],
+    "weaknesses": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ],
+    "next_evolution": [{
+      "num": "070",
+      "name": "Weepinbell"
+    }, {
+      "num": "071",
+      "name": "Victreebel"
+    }]
+  }, {
+    "id": 70,
+    "num": "070",
+    "name": "Weepinbell",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 65,
+      "Attack": 90,
+      "Defense": 50,
+      "Sp. Attack": 85,
+      "Sp. Defense": 45,
+      "Speed": 55,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/070.gif",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "height": "0.99 m",
+    "weight": "6.4 kg",
+    "candy": "Bellsprout Candy",
+    "candy_count": 100,
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.072,
+    "avg_spawns": 7.2,
+    "spawn_time": "09:45",
+    "multipliers": [1.59],
+    "weaknesses": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ],
+    "prev_evolution": [{
+      "num": "069",
+      "name": "Bellsprout"
+    }],
+    "next_evolution": [{
+      "num": "071",
+      "name": "Victreebel"
+    }]
+  }, {
+    "id": 71,
+    "num": "071",
+    "name": "Victreebel",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 80,
+      "Attack": 105,
+      "Defense": 65,
+      "Sp. Attack": 100,
+      "Sp. Defense": 70,
+      "Speed": 70,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/071.gif",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "height": "1.70 m",
+    "weight": "15.5 kg",
+    "candy": "Bellsprout Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.0059,
+    "avg_spawns": 0.59,
+    "spawn_time": "12:19",
+    "multipliers": null,
+    "weaknesses": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ],
+    "prev_evolution": [{
+      "num": "069",
+      "name": "Bellsprout"
+    }, {
+      "num": "070",
+      "name": "Weepinbell"
+    }]
+  }, {
+    "id": 72,
+    "num": "072",
+    "name": "Tentacool",
+     "descriptiones": "",
+    "descriptionus": "",
+        "HP": 40,
+      "Attack": 40,
+      "Defense": 35,
+      "Sp. Attack": 50,
+      "Sp. Defense": 100,
+      "Speed": 70,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/072.gif",
+    "type": [
+      "Water",
+      "Poison"
+    ],
+    "height": "0.89 m",
+    "weight": "45.5 kg",
+    "candy": "Tentacool Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 0.81,
+    "avg_spawns": 81,
+    "spawn_time": "03:20",
+    "multipliers": [2.52],
+    "weaknesses": [
+      "Electric",
+      "Ground",
+      "Psychic"
+    ],
+    "next_evolution": [{
+      "num": "073",
+      "name": "Tentacruel"
+    }]
+  }, {
+    "id": 73,
+    "num": "073",
+    "name": "Tentacruel",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 80,
+      "Attack": 70,
+      "Defense": 65,
+      "Sp. Attack": 80,
+      "Sp. Defense": 120,
+      "Speed": 100,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/073.gif",
+    "type": [
+      "Water",
+      "Poison"
+    ],
+    "height": "1.60 m",
+    "weight": "55.0 kg",
+    "candy": "Tentacool Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.082,
+    "avg_spawns": 8.2,
+    "spawn_time": "23:36",
+    "multipliers": null,
+    "weaknesses": [
+      "Electric",
+      "Ground",
+      "Psychic"
+    ],
+    "prev_evolution": [{
+      "num": "072",
+      "name": "Tentacool"
+    }]
+  }, {
+    "id": 74,
+    "num": "074",
+    "name": "Geodude",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 40,
+      "Attack": 80,
+      "Defense": 100,
+      "Sp. Attack": 30,
+      "Sp. Defense": 30,
+      "Speed": 20,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/074.gif",
+    "type": [
+      "Rock",
+      "Ground"
+    ],
+    "height": "0.41 m",
+    "weight": "20.0 kg",
+    "candy": "Geodude Candy",
+    "candy_count": 25,
+    "egg": "2 km",
+    "spawn_chance": 1.19,
+    "avg_spawns": 119,
+    "spawn_time": "12:40",
+    "multipliers": [
+      1.75,
+      1.76
+    ],
+    "weaknesses": [
+      "Water",
+      "Grass",
+      "Ice",
+      "Fighting",
+      "Ground",
+      "Steel"
+    ],
+    "next_evolution": [{
+      "num": "075",
+      "name": "Graveler"
+    }, {
+      "num": "076",
+      "name": "Golem"
+    }]
+  }, {
+    "id": 75,
+    "num": "075",
+    "name": "Graveler",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 55,
+      "Attack": 95,
+      "Defense": 115,
+      "Sp. Attack": 45,
+      "Sp. Defense": 45,
+      "Speed": 35,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/075.gif",
+    "type": [
+      "Rock",
+      "Ground"
+    ],
+    "height": "0.99 m",
+    "weight": "105.0 kg",
+    "candy": "Geodude Candy",
+    "candy_count": 100,
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.071,
+    "avg_spawns": 7.1,
+    "spawn_time": "04:53",
+    "multipliers": [
+      1.64,
+      1.72
+    ],
+    "weaknesses": [
+      "Water",
+      "Grass",
+      "Ice",
+      "Fighting",
+      "Ground",
+      "Steel"
+    ],
+    "prev_evolution": [{
+      "num": "074",
+      "name": "Geodude"
+    }],
+    "next_evolution": [{
+      "num": "076",
+      "name": "Golem"
+    }]
+  }, {
+    "id": 76,
+    "num": "076",
+    "name": "Golem",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 80,
+      "Attack": 120,
+      "Defense": 130,
+      "Sp. Attack": 55,
+      "Sp. Defense": 65,
+      "Speed": 45,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/076.gif",
+    "type": [
+      "Rock",
+      "Ground"
+    ],
+    "height": "1.40 m",
+    "weight": "300.0 kg",
+    "candy": "Geodude Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.0047,
+    "avg_spawns": 0.47,
+    "spawn_time": "12:16",
+    "multipliers": null,
+    "weaknesses": [
+      "Water",
+      "Grass",
+      "Ice",
+      "Fighting",
+      "Ground",
+      "Steel"
+    ],
+    "prev_evolution": [{
+      "num": "074",
+      "name": "Geodude"
+    }, {
+      "num": "075",
+      "name": "Graveler"
+    }]
+  }, {
+    "id": 77,
+    "num": "077",
+    "name": "Ponyta",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 50,
+      "Attack": 85,
+      "Defense": 55,
+      "Sp. Attack": 65,
+      "Sp. Defense": 65,
+      "Speed": 90,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/077.gif",
+    "type": [
+      "Fire"
+    ],
+    "height": "0.99 m",
+    "weight": "30.0 kg",
+    "candy": "Ponyta Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 0.51,
+    "avg_spawns": 51,
+    "spawn_time": "02:50",
+    "multipliers": [
+      1.48,
+      1.5
+    ],
+    "weaknesses": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "next_evolution": [{
+      "num": "078",
+      "name": "Rapidash"
+    }]
+  }, {
+    "id": 78,
+    "num": "078",
+    "name": "Rapidash",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 65,
+      "Attack": 100,
+      "Defense": 70,
+      "Sp. Attack": 80,
+      "Sp. Defense": 80,
+      "Speed": 105,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/078.gif",
+    "type": [
+      "Fire"
+    ],
+    "height": "1.70 m",
+    "weight": "95.0 kg",
+    "candy": "Ponyta Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.011,
+    "avg_spawns": 1.1,
+    "spawn_time": "04:00",
+    "multipliers": null,
+    "weaknesses": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "prev_evolution": [{
+      "num": "077",
+      "name": "Ponyta"
+    }]
+  }, {
+    "id": 79,
+    "num": "079",
+    "name": "Slowpoke",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 90,
+      "Attack": 65,
+      "Defense": 65,
+      "Sp. Attack": 40,
+      "Sp. Defense": 40,
+      "Speed": 15,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/079.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/079.gif",
+    "type": [
+      "Water",
+      "Psychic"
+    ],
+    "height": "1.19 m",
+    "weight": "36.0 kg",
+    "candy": "Slowpoke Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 1.05,
+    "avg_spawns": 105,
+    "spawn_time": "07:12",
+    "multipliers": [2.21],
+    "weaknesses": [
+      "Electric",
+      "Grass",
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "next_evolution": [{
+      "num": "080",
+      "name": "Slowbro"
+    }]
+  }, {
+    "id": 80,
+    "num": "080",
+    "name": "Slowbro",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 95,
+      "Attack": 75,
+      "Defense": 110,
+      "Sp. Attack": 100,
+      "Sp. Defense": 80,
+      "Speed": 30,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/080.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/080.gif",
+    "type": [
+      "Water",
+      "Psychic"
+    ],
+    "height": "1.60 m",
+    "weight": "78.5 kg",
+    "candy": "Slowpoke Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.036,
+    "avg_spawns": 3.6,
+    "spawn_time": "02:56",
+    "multipliers": null,
+    "weaknesses": [
+      "Electric",
+      "Grass",
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "prev_evolution": [{
+      "num": "079",
+      "name": "Slowpoke"
+    }]
+  }, {
+    "id": 81,
+    "num": "081",
+    "name": "Magnemite",
+      "descriptiones": "",
+    "descriptionus": "",
+       "HP": 25,
+      "Attack": 35,
+      "Defense": 70,
+      "Sp. Attack": 95,
+      "Sp. Defense": 55,
+      "Speed": 45,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/080.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/081.gif",
+    "type": [
+      "Electric"
+    ],
+    "height": "0.30 m",
+    "weight": "6.0 kg",
+    "candy": "Magnemite Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 0.71,
+    "avg_spawns": 71,
+    "spawn_time": "04:04",
+    "multipliers": [
+      2.16,
+      2.17
+    ],
+    "weaknesses": [
+      "Fire",
+      "Water",
+      "Ground"
+    ],
+    "next_evolution": [{
+      "num": "082",
+      "name": "Magneton"
+    }]
+  }, {
+    "id": 82,
+    "num": "082",
+    "name": "Magneton",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 50,
+      "Attack": 60,
+      "Defense": 95,
+      "Sp. Attack": 120,
+      "Sp. Defense": 70,
+      "Speed": 70,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/082.gif",
+    "type": [
+      "Electric"
+    ],
+    "height": "0.99 m",
+    "weight": "60.0 kg",
+    "candy": "Magnemite Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.023,
+    "avg_spawns": 2.3,
+    "spawn_time": "15:25",
+    "multipliers": null,
+    "weaknesses": [
+      "Fire",
+      "Water",
+      "Ground"
+    ],
+    "prev_evolution": [{
+      "num": "081",
+      "name": "Magnemite"
+    }]
+  }, {
+    "id": 83,
+    "num": "083",
+    "name": "Farfetch'd",
+     "descriptiones": "",
+    "descriptionus": "",
+         "HP": 52,
+      "Attack": 90,
+      "Defense": 55,
+      "Sp. Attack": 58,
+      "Sp. Defense": 62,
+      "Speed": 60,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/083.gif",
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "height": "0.79 m",
+    "weight": "15.0 kg",
+    "candy": "None",
+    "egg": "5 km",
+    "spawn_chance": 0.0212,
+    "avg_spawns": 2.12,
+    "spawn_time": "01:09",
+    "multipliers": null,
+    "weaknesses": [
+      "Electric",
+      "Rock"
+    ]
+  }, {
+    "id": 84,
+    "num": "084",
+    "name": "Doduo",
+     "descriptiones": "",
+    "descriptionus": "",
+      "HP": 35,
+      "Attack": 85,
+      "Defense": 45,
+      "Sp. Attack": 35,
+      "Sp. Defense": 35,
+      "Speed": 75,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/084.gif",
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "height": "1.40 m",
+    "weight": "39.2 kg",
+    "candy": "Doduo Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 0.52,
+    "avg_spawns": 52,
+    "spawn_time": "05:10",
+    "multipliers": [
+      2.19,
+      2.24
+    ],
+    "weaknesses": [
+      "Electric",
+      "Rock"
+    ],
+    "next_evolution": [{
+      "num": "085",
+      "name": "Dodrio"
+    }]
+  }, {
+    "id": 85,
+    "num": "085",
+    "name": "Dodrio",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 60,
+      "Attack": 110,
+      "Defense": 70,
+      "Sp. Attack": 60,
+      "Sp. Defense": 60,
+      "Speed": 110,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/085.gif",
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "height": "1.80 m",
+    "weight": "85.2 kg",
+    "candy": "Doduo Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.22,
+    "avg_spawns": 22,
+    "spawn_time": "02:12",
+    "multipliers": null,
+    "weaknesses": [
+      "Electric",
+      "Rock"
+    ],
+    "prev_evolution": [{
+      "num": "084",
+      "name": "Doduo"
+    }]
+  }, {
+    "id": 86,
+    "num": "086",
+    "name": "Seel",
+     "descriptiones": "",
+    "descriptionus": "",
+             "HP": 65,
+      "Attack": 45,
+      "Defense": 55,
+      "Sp. Attack": 45,
+      "Sp. Defense": 70,
+      "Speed": 45,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/086.gif",
+    "type": [
+      "Water"
+    ],
+    "height": "1.09 m",
+    "weight": "90.0 kg",
+    "candy": "Seel Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 0.28,
+    "avg_spawns": 28,
+    "spawn_time": "06:46",
+    "multipliers": [
+      1.04,
+      1.96
+    ],
+    "weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "next_evolution": [{
+      "num": "087",
+      "name": "Dewgong"
+    }]
+  }, {
+    "id": 87,
+    "num": "087",
+    "name": "Dewgong",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 90,
+      "Attack": 70,
+      "Defense": 80,
+      "Sp. Attack": 70,
+      "Sp. Defense": 95,
+      "Speed": 70,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/087.gif",
+    "type": [
+      "Water",
+      "Ice"
+    ],
+    "height": "1.70 m",
+    "weight": "120.0 kg",
+    "candy": "Seel Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.013,
+    "avg_spawns": 1.3,
+    "spawn_time": "06:04",
+    "multipliers": null,
+    "weaknesses": [
+      "Electric",
+      "Grass",
+      "Fighting",
+      "Rock"
+    ],
+    "prev_evolution": [{
+      "num": "086",
+      "name": "Seel"
+    }]
+  }, {
+    "id": 88,
+    "num": "088",
+    "name": "Grimer",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 80,
+      "Attack": 80,
+      "Defense": 50,
+      "Sp. Attack": 40,
+      "Sp. Defense": 50,
+      "Speed": 25,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/088.gif",
+    "type": [
+      "Poison"
+    ],
+    "height": "0.89 m",
+    "weight": "30.0 kg",
+    "candy": "Grimer Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 0.052,
+    "avg_spawns": 5.2,
+    "spawn_time": "15:11",
+    "multipliers": [2.44],
+    "weaknesses": [
+      "Ground",
+      "Psychic"
+    ],
+    "next_evolution": [{
+      "num": "089",
+      "name": "Muk"
+    }]
+  }, {
+    "id": 89,
+    "num": "089",
+    "name": "Muk",
+     "descriptiones": "",
+    "descriptionus": "",
+      "HP": 105,
+      "Attack": 105,
+      "Defense": 75,
+      "Sp. Attack": 65,
+      "Sp. Defense": 100,
+      "Speed": 50,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/089.gif",
+    "type": [
+      "Poison"
+    ],
+    "height": "1.19 m",
+    "weight": "30.0 kg",
+    "candy": "Grimer Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.0031,
+    "avg_spawns": 0.31,
+    "spawn_time": "01:28",
+    "multipliers": null,
+    "weaknesses": [
+      "Ground",
+      "Psychic"
+    ],
+    "prev_evolution": [{
+      "num": "088",
+      "name": "Grimer"
+    }]
+  }, {
+    "id": 90,
+    "num": "090",
+    "name": "Shellder",
+     "descriptiones": "",
+    "descriptionus": "",
+      "HP": 30,
+      "Attack": 65,
+      "Defense": 100,
+      "Sp. Attack": 45,
+      "Sp. Defense": 25,
+      "Speed": 40,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/090.gif",
+    "type": [
+      "Water"
+    ],
+    "height": "0.30 m",
+    "weight": "4.0 kg",
+    "candy": "Shellder Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 0.52,
+    "avg_spawns": 52,
+    "spawn_time": "07:39",
+    "multipliers": [2.65],
+    "weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "next_evolution": [{
+      "num": "091",
+      "name": "Cloyster"
+    }]
+  }, {
+    "id": 91,
+    "num": "091",
+    "name": "Cloyster",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 50,
+      "Attack": 95,
+      "Defense": 180,
+      "Sp. Attack": 85,
+      "Sp. Defense": 45,
+      "Speed": 70,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/091.gif",
+    "type": [
+      "Water",
+      "Ice"
+    ],
+    "height": "1.50 m",
+    "weight": "132.5 kg",
+    "candy": "Shellder Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.015,
+    "avg_spawns": 1.5,
+    "spawn_time": "02:33",
+    "multipliers": null,
+    "weaknesses": [
+      "Electric",
+      "Grass",
+      "Fighting",
+      "Rock"
+    ],
+    "prev_evolution": [{
+      "num": "090",
+      "name": "Shellder"
+    }]
+  }, {
+    "id": 92,
+    "num": "092",
+    "name": "Gastly",
+     "descriptiones": "",
+    "descriptionus": "",
+             "HP": 30,
+      "Attack": 35,
+      "Defense": 30,
+      "Sp. Attack": 100,
+      "Sp. Defense": 35,
+      "Speed": 80,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/092.gif",
+    "type": [
+      "Ghost",
+      "Poison"
+    ],
+    "height": "1.30 m",
+    "weight": "0.1 kg",
+    "candy": "Gastly Candy",
+    "candy_count": 25,
+    "egg": "5 km",
+    "spawn_chance": 0.79,
+    "avg_spawns": 79,
+    "spawn_time": "04:21",
+    "multipliers": [1.78],
+    "weaknesses": [
+      "Ground",
+      "Psychic",
+      "Ghost",
+      "Dark"
+    ],
+    "next_evolution": [{
+      "num": "093",
+      "name": "Haunter"
+    }, {
+      "num": "094",
+      "name": "Gengar"
+    }]
+  }, {
+    "id": 93,
+    "num": "093",
+    "name": "Haunter",
+     "descriptiones": "",
+    "descriptionus": "",
+      "HP": 45,
+      "Attack": 50,
+      "Defense": 45,
+      "Sp. Attack": 115,
+      "Sp. Defense": 55,
+      "Speed": 95,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/093.gif",
+    "type": [
+      "Ghost",
+      "Poison"
+    ],
+    "height": "1.60 m",
+    "weight": "0.1 kg",
+    "candy": "Gastly Candy",
+    "candy_count": 100,
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.052,
+    "avg_spawns": 5.2,
+    "spawn_time": "00:10",
+    "multipliers": [
+      1.56,
+      1.8
+    ],
+    "weaknesses": [
+      "Ground",
+      "Psychic",
+      "Ghost",
+      "Dark"
+    ],
+    "prev_evolution": [{
+      "num": "092",
+      "name": "Gastly"
+    }],
+    "next_evolution": [{
+      "num": "094",
+      "name": "Gengar"
+    }]
+  }, {
+    "id": 94,
+    "num": "094",
+    "name": "Gengar",
+     "descriptiones": "",
+    "descriptionus": "",
+      "HP": 60,
+      "Attack": 65,
+      "Defense": 60,
+      "Sp. Attack": 130,
+      "Sp. Defense": 75,
+      "Speed": 110,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/094.gif",
+    "type": [
+      "Ghost",
+      "Poison"
+    ],
+    "height": "1.50 m",
+    "weight": "40.5 kg",
+    "candy": "Gastly Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.0067,
+    "avg_spawns": 0.67,
+    "spawn_time": "03:55",
+    "multipliers": null,
+    "weaknesses": [
+      "Ground",
+      "Psychic",
+      "Ghost",
+      "Dark"
+    ],
+    "prev_evolution": [{
+      "num": "092",
+      "name": "Gastly"
+    }, {
+      "num": "093",
+      "name": "Haunter"
+    }]
+  }, {
+    "id": 95,
+    "num": "095",
+    "name": "Onix",
+     "descriptiones": "",
+    "descriptionus": "",
+      "HP": 35,
+      "Attack": 45,
+      "Defense": 160,
+      "Sp. Attack": 30,
+      "Sp. Defense": 45,
+      "Speed": 70,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/095.gif",
+    "type": [
+      "Rock",
+      "Ground"
+    ],
+    "height": "8.79 m",
+    "weight": "210.0 kg",
+    "candy": "None",
+    "egg": "10 km",
+    "spawn_chance": 0.10,
+    "avg_spawns": 10,
+    "spawn_time": "01:18",
+    "multipliers": null,
+    "weaknesses": [
+      "Water",
+      "Grass",
+      "Ice",
+      "Fighting",
+      "Ground",
+      "Steel"
+    ]
+  }, {
+    "id": 96,
+    "num": "096",
+    "name": "Drowzee",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 60,
+      "Attack": 48,
+      "Defense": 45,
+      "Sp. Attack": 43,
+      "Sp. Defense": 90,
+      "Speed": 42,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/096.gif",
+    "type": [
+      "Psychic"
+    ],
+    "height": "0.99 m",
+    "weight": "32.4 kg",
+    "candy": "Drowzee Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 3.21,
+    "avg_spawns": 321,
+    "spawn_time": "01:51",
+    "multipliers": [
+      2.08,
+      2.09
+    ],
+    "weaknesses": [
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "next_evolution": [{
+      "num": "097",
+      "name": "Hypno"
+    }]
+  }, {
+    "id": 97,
+    "num": "097",
+    "name": "Hypno",
+     "descriptiones": "",
+    "descriptionus": "",
+      "HP": 85,
+      "Attack": 73,
+      "Defense": 70,
+      "Sp. Attack": 73,
+      "Sp. Defense": 115,
+      "Speed": 67,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/097.gif",
+    "type": [
+      "Psychic"
+    ],
+    "height": "1.60 m",
+    "weight": "75.6 kg",
+    "candy": "Drowzee Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.10,
+    "avg_spawns": 10,
+    "spawn_time": "02:17",
+    "multipliers": null,
+    "weaknesses": [
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "prev_evolution": [{
+      "num": "096",
+      "name": "Drowzee"
+    }]
+  }, {
+    "id": 98,
+    "num": "098",
+    "name": "Krabby",
+     "descriptiones": "",
+    "descriptionus": "",
+      "HP": 30,
+      "Attack": 105,
+      "Defense": 90,
+      "Sp. Attack": 25,
+      "Sp. Defense": 25,
+      "Speed": 50,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/098.gif",
+    "type": [
+      "Water"
+    ],
+    "height": "0.41 m",
+    "weight": "6.5 kg",
+    "candy": "Krabby Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 2.12,
+    "avg_spawns": 212,
+    "spawn_time": "03:33",
+    "multipliers": [
+      2.36,
+      2.4
+    ],
+    "weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "next_evolution": [{
+      "num": "099",
+      "name": "Kingler"
+    }]
+  }, {
+    "id": 99,
+    "num": "099",
+    "name": "Kingler",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 55,
+      "Attack": 130,
+      "Defense": 115,
+      "Sp. Attack": 50,
+      "Sp. Defense": 50,
+      "Speed": 75,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/099.gif",
+    "type": [
+      "Water"
+    ],
+    "height": "1.30 m",
+    "weight": "60.0 kg",
+    "candy": "Krabby Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.062,
+    "avg_spawns": 6.2,
+    "spawn_time": "03:44",
+    "multipliers": null,
+    "weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "prev_evolution": [{
+      "num": "098",
+      "name": "Krabby"
+    }]
+  }, {
+    "id": 100,
+    "num": "100",
+    "name": "Voltorb",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 40,
+      "Attack": 30,
+      "Defense": 50,
+      "Sp. Attack": 55,
+      "Sp. Defense": 55,
+      "Speed": 100,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/100.gif",
+    "type": [
+      "Electric"
+    ],
+    "height": "0.51 m",
+    "weight": "10.4 kg",
+    "candy": "Voltorb Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 0.65,
+    "avg_spawns": 65,
+    "spawn_time": "04:36",
+    "multipliers": [
+      2.01,
+      2.02
+    ],
+    "weaknesses": [
+      "Ground"
+    ],
+    "next_evolution": [{
+      "num": "101",
+      "name": "Electrode"
+    }]
+  }, {
+    "id": 101,
+    "num": "101",
+    "name": "Electrode",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 60,
+      "Attack": 50,
+      "Defense": 70,
+      "Sp. Attack": 80,
+      "Sp. Defense": 80,
+      "Speed": 150,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/101.gif",
+    "type": [
+      "Electric"
+    ],
+    "height": "1.19 m",
+    "weight": "66.6 kg",
+    "candy": "Voltorb Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.02,
+    "avg_spawns": 2,
+    "spawn_time": "04:10",
+    "multipliers": null,
+    "weaknesses": [
+      "Ground"
+    ],
+    "prev_evolution": [{
+      "num": "100",
+      "name": "Voltorb"
+    }]
+  }, {
+    "id": 102,
+    "num": "102",
+    "name": "Exeggcute",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 60,
+      "Attack": 40,
+      "Defense": 80,
+      "Sp. Attack": 60,
+      "Sp. Defense": 45,
+      "Speed": 40,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/102.gif",
+    "type": [
+      "Grass",
+      "Psychic"
+    ],
+    "height": "0.41 m",
+    "weight": "2.5 kg",
+    "candy": "Exeggcute Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 0.78,
+    "avg_spawns": 78,
+    "spawn_time": "09:09",
+    "multipliers": [
+      2.7,
+      3.18
+    ],
+    "weaknesses": [
+      "Fire",
+      "Ice",
+      "Poison",
+      "Flying",
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "next_evolution": [{
+      "num": "103",
+      "name": "Exeggutor"
+    }]
+  }, {
+    "id": 103,
+    "num": "103",
+    "name": "Exeggutor",
+     "descriptiones": "",
+    "descriptionus": "",
+        "HP": 95,
+      "Attack": 95,
+      "Defense": 85,
+      "Sp. Attack": 125,
+      "Sp. Defense": 75,
+      "Speed": 55,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/103.gif",
+    "type": [
+      "Grass",
+      "Psychic"
+    ],
+    "height": "2.01 m",
+    "weight": "120.0 kg",
+    "candy": "Exeggcute Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.014,
+    "avg_spawns": 1.4,
+    "spawn_time": "12:34",
+    "multipliers": null,
+    "weaknesses": [
+      "Fire",
+      "Ice",
+      "Poison",
+      "Flying",
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "prev_evolution": [{
+      "num": "102",
+      "name": "Exeggcute"
+    }]
+  }, {
+    "id": 104,
+    "num": "104",
+    "name": "Cubone",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 50,
+      "Attack": 50,
+      "Defense": 95,
+      "Sp. Attack": 40,
+      "Sp. Defense": 50,
+      "Speed": 35,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/104.gif",
+    "type": [
+      "Ground"
+    ],
+    "height": "0.41 m",
+    "weight": "6.5 kg",
+    "candy": "Cubone Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 0.61,
+    "avg_spawns": 61,
+    "spawn_time": "01:51",
+    "multipliers": [1.67],
+    "weaknesses": [
+      "Water",
+      "Grass",
+      "Ice"
+    ],
+    "next_evolution": [{
+      "num": "105",
+      "name": "Marowak"
+    }]
+  }, {
+    "id": 105,
+    "num": "105",
+    "name": "Marowak",
+     "descriptiones": "",
+    "descriptionus": "",
+             "HP": 60,
+      "Attack": 80,
+      "Defense": 110,
+      "Sp. Attack": 50,
+      "Sp. Defense": 80,
+      "Speed": 45,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/105.gif",
+    "type": [
+      "Ground"
+    ],
+    "height": "0.99 m",
+    "weight": "45.0 kg",
+    "candy": "Cubone Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.02,
+    "avg_spawns": 2,
+    "spawn_time": "03:59",
+    "multipliers": null,
+    "weaknesses": [
+      "Water",
+      "Grass",
+      "Ice"
+    ],
+    "prev_evolution": [{
+      "num": "104",
+      "name": "Cubone"
+    }]
+  }, {
+    "id": 106,
+    "num": "106",
+    "name": "Hitmonlee",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 50,
+      "Attack": 120,
+      "Defense": 53,
+      "Sp. Attack": 35,
+      "Sp. Defense": 110,
+      "Speed": 87,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/106.gif",
+    "type": [
+      "Fighting"
+    ],
+    "height": "1.50 m",
+    "weight": "49.8 kg",
+    "candy": "None",
+    "egg": "10 km",
+    "spawn_chance": 0.02,
+    "avg_spawns": 2,
+    "spawn_time": "03:59",
+    "multipliers": null,
+    "weaknesses": [
+      "Flying",
+      "Psychic",
+      "Fairy"
+    ]
+  }, {
+    "id": 107,
+    "num": "107",
+    "name": "Hitmonchan",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 50,
+      "Attack": 105,
+      "Defense": 79,
+      "Sp. Attack": 35,
+      "Sp. Defense": 110,
+      "Speed": 76,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/107.gif",
+    "type": [
+      "Fighting"
+    ],
+    "height": "1.40 m",
+    "weight": "50.2 kg",
+    "candy": "None",
+    "egg": "10 km",
+    "spawn_chance": 0.022,
+    "avg_spawns": 2.2,
+    "spawn_time": "05:58",
+    "multipliers": null,
+    "weaknesses": [
+      "Flying",
+      "Psychic",
+      "Fairy"
+    ]
+  }, {
+    "id": 108,
+    "num": "108",
+    "name": "Lickitung",
+     "descriptiones": "",
+    "descriptionus": "",
+        "HP": 90,
+      "Attack": 55,
+      "Defense": 75,
+      "Sp. Attack": 60,
+      "Sp. Defense": 75,
+      "Speed": 30,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/108.gif",
+    "type": [
+      "Normal"
+    ],
+    "height": "1.19 m",
+    "weight": "65.5 kg",
+    "candy": "None",
+    "egg": "5 km",
+    "spawn_chance": 0.011,
+    "avg_spawns": 1.1,
+    "spawn_time": "02:46",
+    "multipliers": null,
+    "weaknesses": [
+      "Fighting"
+    ]
+  }, {
+    "id": 109,
+    "num": "109",
+    "name": "Koffing",
+     "descriptiones": "",
+    "descriptionus": "",
+        "HP": 40,
+      "Attack": 65,
+      "Defense": 95,
+      "Sp. Attack": 60,
+      "Sp. Defense": 45,
+      "Speed": 35,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/109.gif",
+    "type": [
+      "Poison"
+    ],
+    "height": "0.61 m",
+    "weight": "1.0 kg",
+    "candy": "Koffing Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 0.20,
+    "avg_spawns": 20,
+    "spawn_time": "08:16",
+    "multipliers": [1.11],
+    "weaknesses": [
+      "Ground",
+      "Psychic"
+    ],
+    "next_evolution": [{
+      "num": "110",
+      "name": "Weezing"
+    }]
+  }, {
+    "id": 110,
+    "num": "110",
+    "name": "Weezing",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 65,
+      "Attack": 90,
+      "Defense": 120,
+      "Sp. Attack": 85,
+      "Sp. Defense": 70,
+      "Speed": 60,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/110.gif",
+    "type": [
+      "Poison"
+    ],
+    "height": "1.19 m",
+    "weight": "9.5 kg",
+    "candy": "Koffing Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.016,
+    "avg_spawns": 1.6,
+    "spawn_time": "12:17",
+    "multipliers": null,
+    "weaknesses": [
+      "Ground",
+      "Psychic"
+    ],
+    "prev_evolution": [{
+      "num": "109",
+      "name": "Koffing"
+    }]
+  }, {
+    "id": 111,
+    "num": "111",
+    "name": "Rhyhorn",
+     "descriptiones": "",
+    "descriptionus": "",
+      "HP": 80,
+      "Attack": 85,
+      "Defense": 95,
+      "Sp. Attack": 30,
+      "Sp. Defense": 30,
+      "Speed": 25,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/111.gif",
+    "type": [
+      "Ground",
+      "Rock"
+    ],
+    "height": "0.99 m",
+    "weight": "115.0 kg",
+    "candy": "Rhyhorn Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 0.63,
+    "avg_spawns": 63,
+    "spawn_time": "03:21",
+    "multipliers": [1.91],
+    "weaknesses": [
+      "Water",
+      "Grass",
+      "Ice",
+      "Fighting",
+      "Ground",
+      "Steel"
+    ],
+    "next_evolution": [{
+      "num": "112",
+      "name": "Rhydon"
+    }]
+  }, {
+    "id": 112,
+    "num": "112",
+    "name": "Rhydon",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 105,
+      "Attack": 130,
+      "Defense": 120,
+      "Sp. Attack": 45,
+      "Sp. Defense": 45,
+      "Speed": 40,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/112.gif",
+    "type": [
+      "Ground",
+      "Rock"
+    ],
+    "height": "1.91 m",
+    "weight": "120.0 kg",
+    "candy": "Rhyhorn Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.022,
+    "avg_spawns": 2.2,
+    "spawn_time": "05:50",
+    "multipliers": null,
+    "weaknesses": [
+      "Water",
+      "Grass",
+      "Ice",
+      "Fighting",
+      "Ground",
+      "Steel"
+    ],
+    "prev_evolution": [{
+      "num": "111",
+      "name": "Rhyhorn"
+    }]
+  }, {
+    "id": 113,
+    "num": "113",
+    "name": "Chansey",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 250,
+      "Attack": 5,
+      "Defense": 5,
+      "Sp. Attack": 35,
+      "Sp. Defense": 105,
+      "Speed": 50,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/113.gif",
+    "type": [
+      "Normal"
+    ],
+    "height": "1.09 m",
+    "weight": "34.6 kg",
+    "candy": "None",
+    "egg": "10 km",
+    "spawn_chance": 0.013,
+    "avg_spawns": 1.3,
+    "spawn_time": "04:46",
+    "multipliers": null,
+    "weaknesses": [
+      "Fighting"
+    ]
+  }, {
+    "id": 114,
+    "num": "114",
+    "name": "Tangela",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 65,
+      "Attack": 55,
+      "Defense": 115,
+      "Sp. Attack": 100,
+      "Sp. Defense": 40,
+      "Speed": 60,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/114.gif",
+    "type": [
+      "Grass"
+    ],
+    "height": "0.99 m",
+    "weight": "35.0 kg",
+    "candy": "None",
+    "egg": "5 km",
+    "spawn_chance": 0.228,
+    "avg_spawns": 22.8,
+    "spawn_time": "23:13",
+    "multipliers": null,
+    "weaknesses": [
+      "Fire",
+      "Ice",
+      "Poison",
+      "Flying",
+      "Bug"
+    ]
+  }, {
+    "id": 115,
+    "num": "115",
+    "name": "Kangaskhan",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 105,
+      "Attack": 95,
+      "Defense": 80,
+      "Sp. Attack": 40,
+      "Sp. Defense": 80,
+      "Speed": 90,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/115.gif",
+    "type": [
+      "Normal"
+    ],
+    "height": "2.21 m",
+    "weight": "80.0 kg",
+    "candy": "None",
+    "egg": "5 km",
+    "spawn_chance": 0.0086,
+    "avg_spawns": 0.86,
+    "spawn_time": "02:40",
+    "multipliers": null,
+    "weaknesses": [
+      "Fighting"
+    ]
+  }, {
+    "id": 116,
+    "num": "116",
+    "name": "Horsea",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 30,
+      "Attack": 40,
+      "Defense": 70,
+      "Sp. Attack": 70,
+      "Sp. Defense": 25,
+      "Speed": 60,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/116.gif",
+    "type": [
+      "Water"
+    ],
+    "height": "0.41 m",
+    "weight": "8.0 kg",
+    "candy": "Horsea Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 1.13,
+    "avg_spawns": 113,
+    "spawn_time": "02:53",
+    "multipliers": [2.23],
+    "weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "next_evolution": [{
+      "num": "117",
+      "name": "Seadra"
+    }]
+  }, {
+    "id": 117,
+    "num": "117",
+    "name": "Seadra",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 55,
+      "Attack": 65,
+      "Defense": 95,
+      "Sp. Attack": 95,
+      "Sp. Defense": 45,
+      "Speed": 85,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/117.gif",
+    "type": [
+      "Water"
+    ],
+    "height": "1.19 m",
+    "weight": "25.0 kg",
+    "candy": "Horsea Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.034,
+    "avg_spawns": 3.4,
+    "spawn_time": "03:18",
+    "multipliers": null,
+    "weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "prev_evolution": [{
+      "num": "116",
+      "name": "Horsea"
+    }]
+  }, {
+    "id": 118,
+    "num": "118",
+    "name": "Goldeen",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 45,
+      "Attack": 67,
+      "Defense": 60,
+      "Sp. Attack": 35,
+      "Sp. Defense": 50,
+      "Speed": 63,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/118.gif",
+    "type": [
+      "Water"
+    ],
+    "height": "0.61 m",
+    "weight": "15.0 kg",
+    "candy": "Goldeen Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 2.18,
+    "avg_spawns": 218,
+    "spawn_time": "03:14",
+    "multipliers": [
+      2.15,
+      2.2
+    ],
+    "weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "next_evolution": [{
+      "num": "119",
+      "name": "Seaking"
+    }]
+  }, {
+    "id": 119,
+    "num": "119",
+    "name": "Seaking",
+     "descriptiones": "",
+    "descriptionus": "",
+      "HP": 80,
+      "Attack": 92,
+      "Defense": 65,
+      "Sp. Attack": 65,
+      "Sp. Defense": 80,
+      "Speed": 68,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/119.gif",
+    "type": [
+      "Water"
+    ],
+    "height": "1.30 m",
+    "weight": "39.0 kg",
+    "candy": "Goldeen Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.08,
+    "avg_spawns": 8,
+    "spawn_time": "05:21",
+    "multipliers": null,
+    "weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "prev_evolution": [{
+      "num": "118",
+      "name": "Goldeen"
+    }]
+  }, {
+    "id": 120,
+    "num": "120",
+    "name": "Staryu",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 30,
+      "Attack": 45,
+      "Defense": 55,
+      "Sp. Attack": 70,
+      "Sp. Defense": 55,
+      "Speed": 85,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/120.gif",
+    "type": [
+      "Water"
+    ],
+    "height": "0.79 m",
+    "weight": "34.5 kg",
+    "candy": "Staryu Candy",
+    "candy_count": 50,
+    "egg": "5 km",
+    "spawn_chance": 1.95,
+    "avg_spawns": 195,
+    "spawn_time": "22:59",
+    "multipliers": [
+      2.38,
+      2.41
+    ],
+    "weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "next_evolution": [{
+      "num": "121",
+      "name": "Starmie"
+    }]
+  }, {
+    "id": 121,
+    "num": "121",
+    "name": "Starmie",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 60,
+      "Attack": 75,
+      "Defense": 85,
+      "Sp. Attack": 100,
+      "Sp. Defense": 85,
+      "Speed": 115,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/121.gif",
+    "type": [
+      "Water",
+      "Psychic"
+    ],
+    "height": "1.09 m",
+    "weight": "80.0 kg",
+    "candy": "Staryu Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.034,
+    "avg_spawns": 3.4,
+    "spawn_time": "06:57",
+    "multipliers": null,
+    "weaknesses": [
+      "Electric",
+      "Grass",
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "prev_evolution": [{
+      "num": "120",
+      "name": "Staryu"
+    }]
+  }, {
+    "id": 122,
+    "num": "122",
+    "name": "Mr. Mime",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 40,
+      "Attack": 45,
+      "Defense": 65,
+      "Sp. Attack": 100,
+      "Sp. Defense": 120,
+      "Speed": 90,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/122.gif",
+    "type": [
+      "Psychic"
+    ],
+    "height": "1.30 m",
+    "weight": "54.5 kg",
+    "candy": "None",
+    "egg": "10 km",
+    "spawn_chance": 0.0031,
+    "avg_spawns": 0.31,
+    "spawn_time": "01:51",
+    "multipliers": null,
+    "weaknesses": [
+      "Bug",
+      "Ghost",
+      "Dark"
+    ]
+  }, {
+    "id": 123,
+    "num": "123",
+    "name": "Scyther",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 70,
+      "Attack": 110,
+      "Defense": 80,
+      "Sp. Attack": 55,
+      "Sp. Defense": 80,
+      "Speed": 105,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/123.gif",
+    "type": [
+      "Bug",
+      "Flying"
+    ],
+    "height": "1.50 m",
+    "weight": "56.0 kg",
+    "candy": "None",
+    "egg": "10 km",
+    "spawn_chance": 0.14,
+    "avg_spawns": 14,
+    "spawn_time": "05:43",
+    "multipliers": null,
+    "weaknesses": [
+      "Fire",
+      "Electric",
+      "Ice",
+      "Flying",
+      "Rock"
+    ]
+  }, {
+    "id": 124,
+    "num": "124",
+    "name": "Jynx",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 65,
+      "Attack": 50,
+      "Defense": 35,
+      "Sp. Attack": 115,
+      "Sp. Defense": 95,
+      "Speed": 95,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/124.gif",
+    "type": [
+      "Ice",
+      "Psychic"
+    ],
+    "height": "1.40 m",
+    "weight": "40.6 kg",
+    "candy": "None",
+    "egg": "10 km",
+    "spawn_chance": 0.35,
+    "avg_spawns": 35,
+    "spawn_time": "05:41",
+    "multipliers": null,
+    "weaknesses": [
+      "Fire",
+      "Bug",
+      "Rock",
+      "Ghost",
+      "Dark",
+      "Steel"
+    ]
+  }, {
+    "id": 125,
+    "num": "125",
+    "name": "Electabuzz",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 65,
+      "Attack": 83,
+      "Defense": 57,
+      "Sp. Attack": 95,
+      "Sp. Defense": 85,
+      "Speed": 105,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/125.gif",
+    "type": [
+      "Electric"
+    ],
+    "height": "1.09 m",
+    "weight": "30.0 kg",
+    "candy": "None",
+    "egg": "10 km",
+    "spawn_chance": 0.074,
+    "avg_spawns": 7.4,
+    "spawn_time": "04:28",
+    "multipliers": null,
+    "weaknesses": [
+      "Ground"
+    ]
+  }, {
+    "id": 126,
+    "num": "126",
+    "name": "Magmar",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 65,
+      "Attack": 95,
+      "Defense": 57,
+      "Sp. Attack": 100,
+      "Sp. Defense": 85,
+      "Speed": 93,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/126.gif",
+    "type": [
+      "Fire"
+    ],
+    "height": "1.30 m",
+    "weight": "44.5 kg",
+    "candy": "None",
+    "egg": "10 km",
+    "spawn_chance": 0.10,
+    "avg_spawns": 10,
+    "spawn_time": "20:36",
+    "multipliers": null,
+    "weaknesses": [
+      "Water",
+      "Ground",
+      "Rock"
+    ]
+  }, {
+    "id": 127,
+    "num": "127",
+    "name": "Pinsir",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 65,
+      "Attack": 125,
+      "Defense": 100,
+      "Sp. Attack": 55,
+      "Sp. Defense": 70,
+      "Speed": 85,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/127.gif",
+    "type": [
+      "Bug"
+    ],
+    "height": "1.50 m",
+    "weight": "55.0 kg",
+    "candy": "None",
+    "egg": "10 km",
+    "spawn_chance": 0.99,
+    "avg_spawns": 99,
+    "spawn_time": "03:25",
+    "multipliers": null,
+    "weaknesses": [
+      "Fire",
+      "Flying",
+      "Rock"
+    ]
+  }, {
+    "id": 128,
+    "num": "128",
+    "name": "Tauros",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 75,
+      "Attack": 100,
+      "Defense": 95,
+      "Sp. Attack": 40,
+      "Sp. Defense": 70,
+      "Speed": 110,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/128.gif",
+    "type": [
+      "Normal"
+    ],
+    "height": "1.40 m",
+    "weight": "88.4 kg",
+    "candy": "None",
+    "egg": "5 km",
+    "spawn_chance": 0.12,
+    "avg_spawns": 12,
+    "spawn_time": "00:37",
+    "multipliers": null,
+    "weaknesses": [
+      "Fighting"
+    ]
+  }, {
+    "id": 129,
+    "num": "129",
+    "name": "Magikarp",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 20,
+      "Attack": 10,
+      "Defense": 55,
+      "Sp. Attack": 15,
+      "Sp. Defense": 20,
+      "Speed": 80,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/129.gif",
+    "type": [
+      "Water"
+    ],
+    "height": "0.89 m",
+    "weight": "10.0 kg",
+    "candy": "Magikarp Candy",
+    "candy_count": 400,
+    "egg": "2 km",
+    "spawn_chance": 4.78,
+    "avg_spawns": 478,
+    "spawn_time": "14:26",
+    "multipliers": [
+      10.1,
+      11.8
+    ],
+    "weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "next_evolution": [{
+      "num": "130",
+      "name": "Gyarados"
+    }]
+  }, {
+    "id": 130,
+    "num": "130",
+    "name": "Gyarados",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 95,
+      "Attack": 125,
+      "Defense": 79,
+      "Sp. Attack": 60,
+      "Sp. Defense": 100,
+      "Speed": 81,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/130.gif",
+    "type": [
+      "Water",
+      "Flying"
+    ],
+    "height": "6.50 m",
+    "weight": "235.0 kg",
+    "candy": "Magikarp Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.0032,
+    "avg_spawns": 0.32,
+    "spawn_time": "02:15",
+    "multipliers": null,
+    "weaknesses": [
+      "Electric",
+      "Rock"
+    ],
+    "prev_evolution": [{
+      "num": "129",
+      "name": "Magikarp"
+    }]
+  }, {
+    "id": 131,
+    "num": "131",
+    "name": "Lapras",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 130,
+      "Attack": 85,
+      "Defense": 80,
+      "Sp. Attack": 85,
+      "Sp. Defense": 95,
+      "Speed": 60,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/131.gif",
+    "type": [
+      "Water",
+      "Ice"
+    ],
+    "height": "2.49 m",
+    "weight": "220.0 kg",
+    "candy": "None",
+    "egg": "10 km",
+    "spawn_chance": 0.006,
+    "avg_spawns": 0.6,
+    "spawn_time": "08:59",
+    "multipliers": null,
+    "weaknesses": [
+      "Electric",
+      "Grass",
+      "Fighting",
+      "Rock"
+    ]
+  }, {
+    "id": 132,
+    "num": "132",
+    "name": "Ditto",
+     "descriptiones": "",
+    "descriptionus": "",
+        "HP": 48,
+      "Attack": 48,
+      "Defense": 48,
+      "Sp. Attack": 48,
+      "Sp. Defense": 48,
+      "Speed": 48,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/132.gif",
+    "type": [
+      "Normal"
+    ],
+    "height": "0.30 m",
+    "weight": "4.0 kg",
+    "candy": "None",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0,
+    "avg_spawns": 0,
+    "spawn_time": "N/A",
+    "multipliers": null,
+    "weaknesses": [
+      "Fighting"
+    ]
+  }, {
+    "id": 133,
+    "num": "133",
+    "name": "Eevee",
+     "descriptiones": "",
+    "descriptionus": "",
+      "HP": 55,
+      "Attack": 55,
+      "Defense": 50,
+      "Sp. Attack": 45,
+      "Sp. Defense": 65,
+      "Speed": 55,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/133.gif",
+    "type": [
+      "Normal"
+    ],
+    "height": "0.30 m",
+    "weight": "6.5 kg",
+    "candy": "Eevee Candy",
+    "candy_count": 25,
+    "egg": "10 km",
+    "spawn_chance": 2.75,
+    "avg_spawns": 275,
+    "spawn_time": "05:32",
+    "multipliers": [
+      2.02,
+      2.64
+    ],
+    "weaknesses": [
+      "Fighting"
+    ],
+    "next_evolution": [{
+      "num": "134",
+      "name": "Vaporeon"
+    }, {
+      "num": "135",
+      "name": "Jolteon"
+    }, {
+      "num": "136",
+      "name": "Flareon"
+    }]
+  }, {
+    "id": 134,
+    "num": "134",
+    "name": "Vaporeon",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 130,
+      "Attack": 65,
+      "Defense": 60,
+      "Sp. Attack": 110,
+      "Sp. Defense": 95,
+      "Speed": 65,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/134.gif",
+    "type": [
+      "Water"
+    ],
+    "height": "0.99 m",
+    "weight": "29.0 kg",
+    "candy": "Eevee Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.014,
+    "avg_spawns": 1.4,
+    "spawn_time": "10:54",
+    "multipliers": null,
+    "weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "prev_evolution": [{
+      "num": "133",
+      "name": "Eevee"
+    }]
+  }, {
+    "id": 135,
+    "num": "135",
+    "name": "Jolteon",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 130,
+      "Attack": 65,
+      "Defense": 60,
+      "Sp. Attack": 110,
+      "Sp. Defense": 95,
+      "Speed": 65,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/135.gif",
+    "type": [
+      "Electric"
+    ],
+    "height": "0.79 m",
+    "weight": "24.5 kg",
+    "candy": "None",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.012,
+    "avg_spawns": 1.2,
+    "spawn_time": "02:30",
+    "multipliers": null,
+    "weaknesses": [
+      "Ground"
+    ],
+    "prev_evolution": [{
+      "num": "133",
+      "name": "Eevee"
+    }]
+  }, {
+    "id": 136,
+    "num": "136",
+    "name": "Flareon",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 65,
+      "Attack": 130,
+      "Defense": 60,
+      "Sp. Attack": 95,
+      "Sp. Defense": 110,
+      "Speed": 65,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/136.gif",
+    "type": [
+      "Fire"
+    ],
+    "height": "0.89 m",
+    "weight": "25.0 kg",
+    "candy": "Eevee Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.017,
+    "avg_spawns": 1.7,
+    "spawn_time": "07:02",
+    "multipliers": null,
+    "weaknesses": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "prev_evolution": [{
+      "num": "133",
+      "name": "Eevee"
+    }]
+  }, {
+    "id": 137,
+    "num": "137",
+    "name": "Porygon",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 65,
+      "Attack": 60,
+      "Defense": 70,
+      "Sp. Attack": 85,
+      "Sp. Defense": 75,
+      "Speed": 40,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/137.gif",
+    "type": [
+      "Normal"
+    ],
+    "height": "0.79 m",
+    "weight": "36.5 kg",
+    "candy": "None",
+    "egg": "5 km",
+    "spawn_chance": 0.012,
+    "avg_spawns": 1.2,
+    "spawn_time": "02:49",
+    "multipliers": null,
+    "weaknesses": [
+      "Fighting"
+    ]
+  }, {
+    "id": 138,
+    "num": "138",
+    "name": "Omanyte",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 35,
+      "Attack": 40,
+      "Defense": 100,
+      "Sp. Attack": 90,
+      "Sp. Defense": 55,
+      "Speed": 35,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/138.gif",
+    "type": [
+      "Rock",
+      "Water"
+    ],
+    "height": "0.41 m",
+    "weight": "7.5 kg",
+    "candy": "Omanyte Candy",
+    "candy_count": 50,
+    "egg": "10 km",
+    "spawn_chance": 0.14,
+    "avg_spawns": 14,
+    "spawn_time": "10:23",
+    "multipliers": [2.12],
+    "weaknesses": [
+      "Electric",
+      "Grass",
+      "Fighting",
+      "Ground"
+    ],
+    "next_evolution": [{
+      "num": "139",
+      "name": "Omastar"
+    }]
+  }, {
+    "id": 139,
+    "num": "139",
+    "name": "Omastar",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 70,
+      "Attack": 60,
+      "Defense": 125,
+      "Sp. Attack": 115,
+      "Sp. Defense": 70,
+      "Speed": 55,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/139.gif",
+    "type": [
+      "Rock",
+      "Water"
+    ],
+    "height": "0.99 m",
+    "weight": "35.0 kg",
+    "candy": "None",
+    "egg": "Omanyte Candy",
+    "spawn_chance": 0.0061,
+    "avg_spawns": 0.61,
+    "spawn_time": "05:04",
+    "multipliers": null,
+    "weaknesses": [
+      "Electric",
+      "Grass",
+      "Fighting",
+      "Ground"
+    ],
+    "prev_evolution": [{
+      "num": "138",
+      "name": "Omanyte"
+    }]
+  }, {
+    "id": 140,
+    "num": "140",
+    "name": "Kabuto",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 30,
+      "Attack": 80,
+      "Defense": 90,
+      "Sp. Attack": 55,
+      "Sp. Defense": 45,
+      "Speed": 55,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/140.gif",
+    "type": [
+      "Rock",
+      "Water"
+    ],
+    "height": "0.51 m",
+    "weight": "11.5 kg",
+    "candy": "Kabuto Candy",
+    "candy_count": 50,
+    "egg": "10 km",
+    "spawn_chance": 0.10,
+    "avg_spawns": 10,
+    "spawn_time": "00:05",
+    "multipliers": [
+      1.97,
+      2.37
+    ],
+    "weaknesses": [
+      "Electric",
+      "Grass",
+      "Fighting",
+      "Ground"
+    ],
+    "next_evolution": [{
+      "num": "141",
+      "name": "Kabutops"
+    }]
+  }, {
+    "id": 141,
+    "num": "141",
+    "name": "Kabutops",
+     "descriptiones": "",
+    "descriptionus": "",
+      "HP": 60,
+      "Attack": 115,
+      "Defense": 105,
+      "Sp. Attack": 65,
+      "Sp. Defense": 70,
+      "Speed": 80,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/141.gif",
+    "type": [
+      "Rock",
+      "Water"
+    ],
+    "height": "1.30 m",
+    "weight": "40.5 kg",
+    "candy": "Kabuto Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.0032,
+    "avg_spawns": 0.32,
+    "spawn_time": "23:40",
+    "multipliers": null,
+    "weaknesses": [
+      "Electric",
+      "Grass",
+      "Fighting",
+      "Ground"
+    ],
+    "prev_evolution": [{
+      "num": "140",
+      "name": "Kabuto"
+    }]
+  }, {
+    "id": 142,
+    "num": "142",
+    "name": "Aerodactyl",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 80,
+      "Attack": 105,
+      "Defense": 65,
+      "Sp. Attack": 60,
+      "Sp. Defense": 75,
+      "Speed": 130,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/142.gif",
+    "type": [
+      "Rock",
+      "Flying"
+    ],
+    "height": "1.80 m",
+    "weight": "59.0 kg",
+    "candy": "None",
+    "egg": "10 km",
+    "spawn_chance": 0.018,
+    "avg_spawns": 1.8,
+    "spawn_time": "23:40",
+    "multipliers": null,
+    "weaknesses": [
+      "Water",
+      "Electric",
+      "Ice",
+      "Rock",
+      "Steel"
+    ]
+  }, {
+    "id": 143,
+    "num": "143",
+    "name": "Snorlax",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 160,
+      "Attack": 110,
+      "Defense": 65,
+      "Sp. Attack": 65,
+      "Sp. Defense": 110,
+      "Speed": 30,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/143.gif",
+    "type": [
+      "Normal"
+    ],
+    "height": "2.11 m",
+    "weight": "460.0 kg",
+    "candy": "None",
+    "egg": "10 km",
+    "spawn_chance": 0.016,
+    "avg_spawns": 1.6,
+    "spawn_time": "23:40",
+    "multipliers": null,
+    "weaknesses": [
+      "Fighting"
+    ]
+  }, {
+    "id": 144,
+    "num": "144",
+    "name": "Articuno",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 90,
+      "Attack": 85,
+      "Defense": 100,
+      "Sp. Attack": 95,
+      "Sp. Defense": 125,
+      "Speed": 85,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/144.gif",
+    "type": [
+      "Ice",
+      "Flying"
+    ],
+    "height": "1.70 m",
+    "weight": "55.4 kg",
+    "candy": "None",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0,
+    "avg_spawns": 0,
+    "spawn_time": "N/A",
+    "multipliers": null,
+    "weaknesses": [
+      "Fire",
+      "Electric",
+      "Rock",
+      "Steel"
+    ]
+  }, {
+    "id": 145,
+    "num": "145",
+    "name": "Zapdos",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 90,
+      "Attack": 90,
+      "Defense": 85,
+      "Sp. Attack": 125,
+      "Sp. Defense": 90,
+      "Speed": 100,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/145.gif",
+    "type": [
+      "Electric",
+      "Flying"
+    ],
+    "height": "1.60 m",
+    "weight": "52.6 kg",
+    "candy": "None",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0,
+    "avg_spawns": 0,
+    "spawn_time": "N/A",
+    "multipliers": null,
+    "weaknesses": [
+      "Ice",
+      "Rock"
+    ]
+  }, {
+    "id": 146,
+    "num": "146",
+    "name": "Moltres",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 90,
+      "Attack": 100,
+      "Defense": 90,
+      "Sp. Attack": 125,
+      "Sp. Defense": 85,
+      "Speed": 90,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/146.gif",
+    "type": [
+      "Fire",
+      "Flying"
+    ],
+    "height": "2.01 m",
+    "weight": "60.0 kg",
+    "candy": "None",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0,
+    "avg_spawns": 0,
+    "spawn_time": "N/A",
+    "multipliers": null,
+    "weaknesses": [
+      "Water",
+      "Electric",
+      "Rock"
+    ]
+  }, {
+    "id": 147,
+    "num": "147",
+    "name": "Dratini",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 41,
+      "Attack": 64,
+      "Defense": 45,
+      "Sp. Attack": 50,
+      "Sp. Defense": 50,
+      "Speed": 50,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/147.gif",
+    "type": [
+      "Dragon"
+    ],
+    "height": "1.80 m",
+    "weight": "3.3 kg",
+    "candy": "Dratini Candy",
+    "candy_count": 25,
+    "egg": "10 km",
+    "spawn_chance": 0.30,
+    "avg_spawns": 30,
+    "spawn_time": "06:41",
+    "multipliers": [
+      1.83,
+      1.84
+    ],
+    "weaknesses": [
+      "Ice",
+      "Dragon",
+      "Fairy"
+    ],
+    "next_evolution": [{
+      "num": "148",
+      "name": "Dragonair"
+    }, {
+      "num": "149",
+      "name": "Dragonite"
+    }]
+  }, {
+    "id": 148,
+    "num": "148",
+    "name": "Dragonair",
+     "descriptiones": "",
+    "descriptionus": "",
+      "HP": 61,
+      "Attack": 84,
+      "Defense": 65,
+      "Sp. Attack": 70,
+      "Sp. Defense": 70,
+      "Speed": 70,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/148.gif",
+    "type": [
+      "Dragon"
+    ],
+    "height": "3.99 m",
+    "weight": "16.5 kg",
+    "candy": "Dratini Candy",
+    "candy_count": 100,
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.02,
+    "avg_spawns": 2,
+    "spawn_time": "11:57",
+    "multipliers": [2.05],
+    "weaknesses": [
+      "Ice",
+      "Dragon",
+      "Fairy"
+    ],
+    "prev_evolution": [{
+      "num": "147",
+      "name": "Dratini"
+    }],
+    "next_evolution": [{
+      "num": "149",
+      "name": "Dragonite"
+    }]
+  }, {
+    "id": 149,
+    "num": "149",
+    "name": "Dragonite",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 91,
+      "Attack": 134,
+      "Defense": 95,
+      "Sp. Attack": 100,
+      "Sp. Defense": 100,
+      "Speed": 80,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/149.gif",
+    "type": [
+      "Dragon",
+      "Flying"
+    ],
+    "height": "2.21 m",
+    "weight": "210.0 kg",
+    "candy": "Dratini Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.0011,
+    "avg_spawns": 0.11,
+    "spawn_time": "23:38",
+    "multipliers": null,
+    "weaknesses": [
+      "Ice",
+      "Rock",
+      "Dragon",
+      "Fairy"
+    ],
+    "prev_evolution": [{
+      "num": "147",
+      "name": "Dratini"
+    }, {
+      "num": "148",
+      "name": "Dragonair"
+    }]
+  }, {
+    "id": 150,
+    "num": "150",
+    "name": "Mewtwo",
+     "descriptiones": "",
+    "descriptionus": "",
+        "HP": 106,
+      "Attack": 110,
+      "Defense": 90,
+      "Sp. Attack": 154,
+      "Sp. Defense": 90,
+      "Speed": 130,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/150.gif",
+    "type": [
+      "Psychic"
+    ],
+    "height": "2.01 m",
+    "weight": "122.0 kg",
+    "candy": "None",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0,
+    "avg_spawns": 0,
+    "spawn_time": "N/A",
+    "multipliers": null,
+    "weaknesses": [
+      "Bug",
+      "Ghost",
+      "Dark"
+    ]
+  }, {
+    "id": 151,
+    "num": "151",
+    "name": "Mew",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 100,
+      "Attack": 100,
+      "Defense": 100,
+      "Sp. Attack": 100,
+      "Sp. Defense": 100,
+      "Speed": 100,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/151.gif",
+    "type": [
+      "Psychic"
+    ],
+    "height": "0.41 m",
+    "weight": "4.0 kg",
+    "candy": "None",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0,
+    "avg_spawns": 0,
+    "spawn_time": "N/A",
+    "multipliers": null,
+    "weaknesses": [
+      "Bug",
+      "Ghost",
+      "Dark"
+    ]
+  },
+             {
+    "id": 152,
+    "num": "152",
+    "name": "Chikorita",
+      "descriptiones": "",
+    "descriptionus": "",
+       "HP": 45,
+      "Attack": 49,
+      "Defense": 65,
+      "Sp. Attack": 49,
+      "Sp. Defense": 65,
+      "Speed": 45,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/152.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/152.gif",
+    "type": [
+      "Grass"
+    ],
+    "height": "0.9 m",
+    "weight": "6.4 kg",
+    "candy": "None",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0,
+    "avg_spawns": 0,
+    "spawn_time": "N/A",
+    "multipliers": null,
+    "weaknesses": [
+      "Bug",
+      "Fire",
+      "Flying",
+      "Ice",
+      "Poison"
+    ]
+  }]
+}
